@@ -13,6 +13,10 @@
 11. [Raporty i metodologie](./rozdzialy/11_Raporty_i_metodologie.md)
 12. [Podręczniki i szkolenia oraz przydatne linki](./rozdzialy/12_Podreczniki_i_szkolenia.md)
 
-# Ważne informacje
+## Ważne informacje
 
-Projekt ma na celu zwiększenie wiedzy sektora informatycznego na temat dostępności produktów cyfrowych dla osób z niepełnosprawnościami. Jest to fundament do poprawnego tworzenia oprogramowania (zgodnego z prawem i z potrzebami wszystkich użytkowników).
+Projekt ma na celu zwiększenie wiedzy sektora informatycznego na temat dostępności produktów cyfrowych dla osób z niepełnosprawnościami. Jest to fundament do poprawnego tworzenia oprogramowania (zgodnego z prawem i z potrzebami wszystkich użytkowników). Projekt jest oparty o [licencję GNU](LICENSE).
+
+## Wersja
+
+1.0

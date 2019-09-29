@@ -147,4 +147,35 @@ Ze względu na wymogi prawne sektor publiczny wyprzedził sektor prywatny w kont
 Projektowanie uniwersalne wymaga od nas, aby budować produkty dostępne do jak najszerszej grupy osób. Nie trzeba specjalnych rozwiązań dla osób z niepełnosprawnościami. Wystarczy, że przy tworzeniu będziemy pamiętać o problemach tej grupy np. wskazówki na stronie nie będą się opierać tylko o zmysł wzroku. Być może sami lub nasi bliscy będziemy korzystać z tych rozwiązań. Nawet będąc osobom pełnosprawną docenimy dobry kontrast czy obsługę za pomocą klawiatury (np. złamana ręka). 
 Osoby z niepełnosprawnościami często nie mają alternatywy dla strony internetowej np. osoba głucha potrzebuje pośrednika, aby komunikować się za pomocą telefonu. Strony internetowe są znacznie większym ułatwieniem dla osób z niepełnosprawnościami niż dla osób pełnosprawnych.
 
+## Narzędzia, z których korzystają osoby z niepełnosprawnościami
+
+Osoby z niepełnosprawnościami często wykorzystują specjalne sprzęty lub programy. Warto poznać w jaki sposób się poruszają po technologiach cyfrowych. [Szczegóły znajdziesz w dziale Wskazówki dla testerów](./9_Wskazowki_dla_testerow.md).
+
+## Utrudnienia na stronach internetowych
+
+Osoby z dysfunkcją narządu wzroku:
+
+[![](http://img.youtube.com/vi/Fxn0gY_sAEM/0.jpg)](http://www.youtube.com/watch?v=Fxn0gY_sAEM "Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z dysfunkcją narządu wzroku")
+
+Osoby z dysfunkcją narządu słuchu:
+
+[![](http://img.youtube.com/vi/1yAB1M-ci2M/0.jpg)](http://www.youtube.com/watch?v=1yAB1M-ci2M "Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z dysfunkcją narządu słuchu")
+
+Osoby z dysfunkcją ruchową:
+
+[![](http://img.youtube.com/vi/ylEq1TuPmhM/0.jpg)](http://www.youtube.com/watch?v=ylEq1TuPmhM "Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z ruchową")
+
+Osoba z dysleksją:
+
+[![](http://img.youtube.com/vi/PY1m-1UjRhw/0.jpg)](http://www.youtube.com/watch?v=PY1m-1UjRhw "Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z dysleksją")
+
+## Savoir-vivre (dobre maniery) wobec osób z niepełnosprawnościami
+
+Zalecane jest użytkowanie określenia "osoba z niepełnosprawnościami", ponieważ niepełnosprawność to jedna z wielu cech tej osoby i nie powinna ją stygmatyzować. [Więcej w artykule na stronie PFRON](https://www.pfron.org.pl/fileadmin/files/0/477_01-Dariusz_Galasinski.pdf).
+
+Przydatny w kontaktach będzie poradnik: [Savoir-vivre wobec osób z niepełnosprawnością](https://www.integracja.org/portfolio/savoir-vivre-wobec-osob-z-niepelnosprawnoscia/), gdzie dowiemy się np.:
+
+- nie wolno rozpraszać psa przewodnika w trakcie pracy;
+- należy używać języka codziennego w kontakcie z osobami z niepełnosprawnościami, dlatego nie ma problemu w mówieniu do osoby niewidomej "do widzenia".
+
 ## [Wróć do spisu treści](../README.md)

@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 
 Projekt został opublikowany na stronie [WCAG - Github](https://github.com/Wloclawek/WCAG)
 
-## [1.0.0] - 2019-09-28
+## [1] - 2019-09-29
 
 ### Dodano
 
