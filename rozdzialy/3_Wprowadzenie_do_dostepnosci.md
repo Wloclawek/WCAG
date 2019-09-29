@@ -127,7 +127,7 @@ Według Narodowego Spisu Powszechnego Ludności i Mieszkań z 2011 r. w Polsce 
 
 ### Prawo
 
-Wykluczanie osób z niepełnosprawnościami z dostępu do informacji to łamanie prawa. Jest wiele aktów międzynarodowych i krajowych nakazujących sektorowi publicznemu dostępność stron internetowych dla osób z niepełnosprawnościami. W tym kierunku jest także zmieniane prawo dot. podmiotów prywatnych. Szerzej tematyka jest omówiana w dziale [Wymogi prawne](./rozdzialy/5_Wymogi_prawne).
+Wykluczanie osób z niepełnosprawnościami z dostępu do informacji to łamanie prawa. Jest wiele aktów międzynarodowych i krajowych nakazujących sektorowi publicznemu dostępność stron internetowych dla osób z niepełnosprawnościami. W tym kierunku jest także zmieniane prawo dot. podmiotów prywatnych. Szerzej tematyka jest omówiana w dziale [Wymogi prawne](./rozdzialy/5_Wymogi_prawne.md).
 
 ### Kary finansowe
 
