@@ -3,6 +3,7 @@
 ## Rodzaje niepełnosprawności czyli nie tylko osoby niewidome!
 
 ![Grafiak jest podzielona na cztery elementy. Każdy symbolizuje jeden rodzaj niepełnosprawności. Ikonka osoby na wózku dotyczy osób z niepełnosprawnością ruchową. Ikonka z zaznaczonym mózgiem dotyczy osób z niepełnosprawnością intelektualną. Ikonka rąk dotyczy osób z niepełnosprawnością narządu słuchu. Ikonka człowieka z laską dotyczy osób z niepelnosprawnością narządu wzroku ](https://upload.wikimedia.org/wikipedia/commons/f/f6/Disability_symbols.svg)
+
 Grafika pochodzi z serwisi Wikimedia. Nie jest częścią tego repozytorium.
 
 Źle przygotowane produkty cyfrowe utrudniają dostęp do informacji. Bardzo często twórcy skupiają się wyłącznie na osobach niewidomych, a jest to błędne podejście. Problem mogą mieć:
