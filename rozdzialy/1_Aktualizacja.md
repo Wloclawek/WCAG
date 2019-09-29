@@ -10,3 +10,5 @@ Projekt został opublikowany na stronie [WCAG - Github](https://github.com/Wlocl
 ### Dodano
 
 Utworzenie treści [RAF].
+
+## [Wróć do spisu treści](../README.md)

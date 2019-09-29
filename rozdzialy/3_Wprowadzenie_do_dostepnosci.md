@@ -146,3 +146,5 @@ Ze względu na wymogi prawne sektor publiczny wyprzedził sektor prywatny w kont
 
 Projektowanie uniwersalne wymaga od nas, aby budować produkty dostępne do jak najszerszej grupy osób. Nie trzeba specjalnych rozwiązań dla osób z niepełnosprawnościami. Wystarczy, że przy tworzeniu będziemy pamiętać o problemach tej grupy np. wskazówki na stronie nie będą się opierać tylko o zmysł wzroku. Być może sami lub nasi bliscy będziemy korzystać z tych rozwiązań. Nawet będąc osobom pełnosprawną docenimy dobry kontrast czy obsługę za pomocą klawiatury (np. złamana ręka). 
 Osoby z niepełnosprawnościami często nie mają alternatywy dla strony internetowej np. osoba głucha potrzebuje pośrednika, aby komunikować się za pomocą telefonu. Strony internetowe są znacznie większym ułatwieniem dla osób z niepełnosprawnościami niż dla osób pełnosprawnych.
+
+## [Wróć do spisu treści](../README.md)
