@@ -133,9 +133,9 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art
    2020 r.**;
 3. aplikacji mobilnych podmiotów publicznych – z dniem **23 czerwca 2021 r.**
 
-### Ustawa o zapewnianiu dostępności osobom ze szczególnymi potrzebami (obecnie opracowywana przez Ministerstwo Inwestycji i Rozwoju)
+### Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami
 
-[Projekt ustawy jest dostępny na stronie Sejmu RP](http://www.sejm.gov.pl/sejm8.nsf/agent.xsp?symbol=RPL&Id=RM-10-87-19). [Ustawa ma objąć 65 tys. podmiotów publicznych](https://www.gov.pl/web/inwestycje-rozwoj/projekt-ustawy-o-dostepnosci-w-konsultacjach). Dotyczy dostępności w szerszym zagadnieniu niż tylko strony internetowe:
+[Ustawa jest dostępna na stronie Sejmu RP](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001696). [Ustawa ma objąć 65 tys. podmiotów publicznych](https://www.gov.pl/web/inwestycje-rozwoj/projekt-ustawy-o-dostepnosci-w-konsultacjach). Dotyczy dostępności w szerszym zagadnieniu niż tylko strony internetowe:
 
 - dostęp architektoniczny;
 - organizowanie imprez masowych;
@@ -143,8 +143,6 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art
 - regulaminy w sektorze publicznym w dostępnym formacie;
 - dostępny transport publiczny;
 - dostosowanie zabytków.
-
-Szczegóły na stronach Ministerstwa Inwestycji i Rozwoju.
 
 ### Rozporządzenia Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych.
 
