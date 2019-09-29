@@ -36,6 +36,8 @@ Osoby częściowo sparaliżowane mogą korzystać z programów imitujących dzia
 
 Technologia dla osób z niepełnosprawnościami cały czas się rozwija. Osoby sparaliżowane dotychczas mogły się komunikować za pomocą narzędzi obserwujących ruchy gałki ocznej. A są opracowywane nowsze rozwiązania np.: urządzenie do komunikacji mózg-komputer.
 
+[![](http://img.youtube.com/vi/9oka8hqsOzg/0.jpg)](http://www.youtube.com/watch?v=9oka8hqsOzg "Kliknij, aby przejść do kanału Youtube z filmem pokazującym obsługę komputera przy użyciu móżgu")
+
 ## Tryb wysokiego kontrastu w systemie Windows
 
 Osoby z niektórymi schorzeniami wzroku wymagają wysokiego kontrastu. Potrzebują go od uruchomienia systemu, więc nie korzystają z kontrolek przełączania kontrastu na stronach internetowych.
