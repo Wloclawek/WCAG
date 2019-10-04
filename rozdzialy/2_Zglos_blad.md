@@ -1,8 +1,8 @@
-# Zgłość błąd
+# Zgłoś błąd
 
 ## Adres kontaktowy
 
-Błędy i sugestie możesz zgłaszać na adres e-mail: zglos_blad_github@gmail.com. Serdecznie dziękuję za wszystkie uwagi.
+Błędy i sugestie możesz zgłaszać na adres e-mail: **zglos_blad_github@gmail**.com. Serdecznie dziękujemy za wszystkie uwagi.
 
 ## Dodanie własnych poprawek
 

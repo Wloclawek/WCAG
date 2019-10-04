@@ -1,7 +1,7 @@
 # Spis treści
 
 1. [Aktualizacje](./rozdzialy/1_Aktualizacja.md)
-2. [Zgłość błąd](./rozdzialy/2_Zglos_blad.md)
+2. [Zgłoś błąd](./rozdzialy/2_Zglos_blad.md)
 3. [Wprowadzenie do dostępności](./rozdzialy/3_Wprowadzenie_do_dostepnosci.md)
 4. [Wytyczne WCAG](./rozdzialy/4_Wytyczne_WCAG.md)
 5. [Wymogi prawne](./rozdzialy/5_Wymogi_prawne.md)
