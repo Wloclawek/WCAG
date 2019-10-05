@@ -8,8 +8,8 @@ Przydatne linki:
 
 - [Metodologia opracowana przez Uniwersytet Śląski i Fundację Widzialni](http://widzialni.org/index.php?p=new&idg=mg,5&id=184);
 - [Francuska metodologia (polskie tłumaczenie)](https://www.gov.pl/web/dostepnosc-cyfrowa/francuska-metodyka-badania-dostepnosci-rgaa);
-- [Raporty dostępności (edycje od 2013, 2015, 2016, 2017)](http://widzialni.org/publikacje,m,mg,11,5);
+- [Raport dostępności 2019](http://widzialni.org/konferencja-wlaczenie-cyfrowe-access-tech-2019,new,mg,6,361);
 - [Raport dostępności 2018](http://widzialni.org/index.php?p=new&idg=mg,6&id=343);
-- [Raport dostępności 2019](http://widzialni.org/konferencja-wlaczenie-cyfrowe-access-tech-2019,new,mg,6,361).
+- [Raporty dostępności (edycje od 2013, 2015, 2016, 2017)](http://widzialni.org/publikacje,m,mg,11,5).
 
 ## [Wróć do spisu treści](../README.md)

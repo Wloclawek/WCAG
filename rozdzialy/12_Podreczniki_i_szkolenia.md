@@ -3,7 +3,10 @@
 ## Podręczniki
 
 - [WCAG 2.0 Podręcznik Dobrych Praktyk (Fundacja Widzialni)](http://widzialni.org/index.php?p=new&idg=mg,5&id=185);
-- [Dostępność serwisów Internetowych (Fundacja Integracja)](http://niepelnosprawni.gov.pl/container/publikacje/dostepnosc-serwisow-internetowych/Podrecznik.%20Dostepnosc%20serwisow%20internetowych.pdf);
+- [Dostępność serwisów Internetowych w formacie PDF (Fundacja Integracja)](http://dostepnestrony.pl/wp-content/uploads/2013/08/Dostepnosc-serwisow-internetowych-Dominik-Paszkiewicz-Jakub-Debski.pdf);
+- [Dostępność serwisów Internetowych w formacie MOBI (Fundacja Integracja)](http://dostepnestrony.pl/wp-content/uploads/2013/08/Dostepnosc-serwisow-internetowych-Dominik-Paszkiewicz-Jakub-Debski.mobi);
+- [Dostępność serwisów Internetowych w formacie ePUP (Fundacja Integracja)](http://dostepnestrony.pl/wp-content/uploads/2013/08/Dostepnosc-serwisow-internetowych-Dominik-Paszkiewicz-Jakub-Debski.epub);
+- [Dostępność serwisów Internetowych w formacie DAISY (Fundacja Integracja)](http://dostepnestrony.pl/pliki/Dostepnosc_serwisow_internetowych.zip);
 - [Dostępne multimedia (Fundacja Widzialni)](http://widzialni.org/dostepne-multimedia,new,mg,5,253);
 - [Badanie dostępności strony www w oparciu o WCAG (Fundacja Widzialni)](http://widzialni.org/badanie-dostepnosci-strony-www-w-oparciu-o-wcag,new,mg,5,254);
 - [Dostępne WWW (Fundacja Instytut Rozwoju Regionalnego)](https://firr.org.pl/wp-content/uploads/2018/04/FIRR_Dostepne_WWW.pdf).
@@ -22,7 +25,7 @@
 - [narzędzie do badania kontrastu (Utah State University)](https://webaim.org/resources/contrastchecker/);
 - [walidator kodu W3C](https://validator.w3.org/);
 - analizator nagłówków h1-h6 ([wtyczka dla nagłówków do Firefoxa](https://addons.mozilla.org/pl/firefox/addon/headingsmap/), [wtyczka dla nagłówków do Chrome](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi));
-- automatyczne narzędzie sprawdzania dostępności ([strona internetowa - automatyczne sprawdzanie](https://wave.webaim.org/), [wtyczka do Firefoxa- automatyczne sprawdzanie](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/), [wtyczka do Chrome- automatyczne sprawdzanie](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh));
+- automatyczne narzędzie sprawdzania dostępności. Narzędzie jest pomocznicze i nie powinno zastępować badania przez eksperta. ([strona internetowa - automatyczne sprawdzanie](https://wave.webaim.org/), [wtyczka do Firefoxa- automatyczne sprawdzanie](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/), [wtyczka do Chrome- automatyczne sprawdzanie](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh));
 - [program sprawdzający dostępność plików PDF-ów (PDF Accessibility Checker)](https://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html);
 
 ## Dokumenty W3C

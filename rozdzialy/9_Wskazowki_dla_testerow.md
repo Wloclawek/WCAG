@@ -22,9 +22,9 @@ Ekran brajlowski (Fotografia z Wikipedii):
 
 ### Osoby słabowidzące
 
-Osoby słabowidzące wykorzystują programy powiększające (np. **Lunar** albo **ZoomText** itd.) i powiększająco-udźwiękowające (np. **Supernova**) . Warto zaznaczyć, że programy powiększające często mają możliwość powiększenia 40-krotnego (są osoby wymagające bardzo dużego powiększenia tekstu). System Windows ma program do powiększania (**[Lupa](https://support.microsoft.com/pl-pl/help/11542/windows-use-magnifier-to-make-things-easier-to-see)** oraz odczytywania zawartości przeglądarki (**[Narrator](https://support.microsoft.com/pl-pl/help/4028598/windows-10-start-or-stop-narrator)**).
+Osoby słabowidzące wykorzystują programy powiększające (np. **Lunar** albo **ZoomText** itd.) i powiększająco-udźwiękowające (np. **Supernova**) . Warto zaznaczyć, że programy powiększające często mają możliwość powiększenia 40-krotnego (są osoby wymagające bardzo dużego powiększenia tekstu). System Windows ma program do powiększania (**[Lupa](https://support.microsoft.com/pl-pl/help/11542/windows-use-magnifier-to-make-things-easier-to-see)** oraz do czytnik ekranu (**[Narrator](https://support.microsoft.com/pl-pl/help/4028598/windows-10-start-or-stop-narrator)**).
 
-Istnieją również specjalne klawiatury dla takich osób słabowidzących (zdjęcie z Wikimedii):
+Istnieją również specjalne klawiatury dla osób słabowidzących (zdjęcie z Wikimedii):
 
 ![Klawiatura z żółtymi przyciskami i czarnymi znakami](https://upload.wikimedia.org/wikipedia/commons/0/0a/Hand-on-high-contrast-accessible-computer-keyboard.jpg)
 
@@ -36,19 +36,19 @@ Osoby częściowo sparaliżowane mogą korzystać z programów imitujących dzia
 
 Technologia dla osób z niepełnosprawnościami cały czas się rozwija. Osoby sparaliżowane dotychczas mogły się komunikować za pomocą narzędzi obserwujących ruchy gałki ocznej. A są opracowywane nowsze rozwiązania np.: urządzenie do komunikacji mózg-komputer.
 
-[![](http://img.youtube.com/vi/9oka8hqsOzg/0.jpg)](http://www.youtube.com/watch?v=9oka8hqsOzg "Kliknij, aby przejść do kanału Youtube z filmem pokazującym obsługę komputera przy użyciu móżgu")
+[![](http://img.youtube.com/vi/9oka8hqsOzg/0.jpg)](http://www.youtube.com/watch?v=9oka8hqsOzg "Kliknij, aby przejść do kanału Youtube z filmem pokazującym obsługę komputera bez użycia rąk")
 
 ## Tryb wysokiego kontrastu w systemie Windows
 
 Osoby z niektórymi schorzeniami wzroku wymagają wysokiego kontrastu. Potrzebują go od uruchomienia systemu, więc nie korzystają z kontrolek przełączania kontrastu na stronach internetowych.
 Windows posiada "tryb wysokiego kontrastu", a można go uruchomić klikając jednocześnie **Alt**  +  **lewy Shift**  +  **Print Screen** (w ten sam sposób się go wyłącza).
 
-Internet Explorer i Firefox obsługują poprawnie ten tryb. W przypadku Firefoxa czasem trzeba zrestartować przeglądarkę i spr. czy jest zaznaczona odp. opcja (wchodzimy w **Opcje** następnie **Kolory** (w **Język i wygląd)**) następnie zaznaczamy **Kolory Systemowe**).
+Internet Explorer i Firefox obsługują poprawnie ten tryb. W przypadku Firefoxa czasem trzeba zrestartować przeglądarkę i spr. czy jest zaznaczona odpowiednia opcja (wchodzimy w **Opcje** następnie **Kolory** ( **Język i wygląd**, następnie zaznaczamy **Kolory Systemowe**).
 
 Chrome i Opera ignorują tryb. Należy zainstalować dodatki:
 
-- [dodatek do kontrastu w Chrome](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph);
-- [dodatek do kontrastu w Opera](https://addons.opera.com/pl/extensions/details/dark-mode/).
+- [dodatek do poprawy kontrastu w Chrome](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph);
+- [dodatek do poprawu kontrastu w Opera](https://addons.opera.com/pl/extensions/details/dark-mode/).
 
 ## Testowanie czytnikiem ekranu NVDA
 

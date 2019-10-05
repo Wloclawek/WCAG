@@ -1,13 +1,15 @@
 # Wymogi prawne
 
-## Akty prawne pośrednio dotyczące dostępności stron internetowych
+W tekście użyto cytatów z aktów prawnych.
+
+## Akty prawne pośrednio dotyczące dostępności produktów cyfrowych dla osób z niepełnosprawnościami
 
 ### Konstytucja RP
 
 #### Art. 32
 
 1. Wszyscy są wobec prawa równi. Wszyscy mają prawo do równego traktowania przez władze publiczne.
-2. Nikt nie może być dyskryminowany w życiu politycznym, społecznym lub gospodarczym z jakiejkolwiek przyczyny
+2. Nikt nie może być dyskryminowany w życiu politycznym, społecznym lub gospodarczym z jakiejkolwiek przyczyny.
 
 #### Art. 51
 
@@ -24,31 +26,29 @@ Osobom niepełnosprawnym władze publiczne udzielają, zgodnie z ustawą, pomoc
 ### Konwencja ONZ o prawach osób niepełnosprawnych
 
 5. Państwa Strony podejmą również odpowiednie środki w celu:
-   (g) popierania dostępu osób niepełnosprawnych do nowych technologii i systemów informacyjno-komunikacyjnych, w tym do Internetu
+   (g) popierania dostępu osób niepełnosprawnych do nowych technologii i systemów informacyjno-komunikacyjnych, w tym do Internetu.
 
 ### Ustawa z dnia 19 sierpnia 2011r. o języku migowym i innych środkach komunikowania się
 
 #### Art. 3
 
-5. środkach wspierających komunikowanie się – należy przez to rozumieć rozwiązania lub usługi umożliwiające kontakt, w szczególności poprzez:e) strony internetowe spełniające standardy dostępności dla osób niepełnosprawnych;
+5. środkach wspierających komunikowanie się – należy przez to rozumieć rozwiązania lub usługi umożliwiające kontakt, w szczególności poprzez: e) strony internetowe spełniające standardy dostępności dla osób niepełnosprawnych.
 
 #### Art. 9. 1.
 
 Organ administracji publicznej jest zobowiązany do udostępnienia usługi pozwalającej na komunikowanie się.
 
-## Akty prawne bezpośrednio dotyczące dostępności stron internetowych
+## Akty prawne bezpośrednio dotyczące dostępności produktów cyfrowych dla osób z niepełnosprawnościami
 
 ### Wstęp
 
-Obecnie mamy kilka aktów prawnych, które wymagają dostępności stron internetowych. Odwołują się one do różnych wytycznych WCAG np. projekty unijne wymagają WCAG 2.0, a strony rządowe WCAG 2.1 (zawiera w całości WCAG 2.0). Należy zwrócić uwagę, że przepisy unijne wymagają także napisów rozszerzonych do transmisji "na żywo".
+Obecnie mamy kilka aktów prawnych, które wymagają dostępności. Odwołują się one do różnych wytycznych WCAG np. projekty unijne wymagają WCAG 2.0, a strony rządowe powinny spełniać wymogi WCAG 2.1 (zawiera on w całości WCAG 2.0). Należy zwrócić uwagę, że przepisy unijne wymagają także napisów rozszerzonych do transmisji "na żywo".
 
-Przewidziano kary za długotrwały brak dostępności dla osób z niepełnosprawnościami (Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych). Najważniejszym dokumentem jest Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych, która rozszerza dotychczasowe wymagania dla stron publicznych.
+Przewidziano kary za długotrwały brak dostępności dla osób z niepełnosprawnościami. Najważniejszym dokumentem jest Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych, która rozszerza dotychczasowe wymagania dla stron publicznych.
 
 ### Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
 
 Jest to efekt wdrożenia dyrektywy do prawa polskiego ([Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego (Tekst mający znaczenie dla EOG](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX%3A32016L2102) ). **Obecnie najważniejszy dokument dot. dostępności stron internetowych**. Warto zwrócić uwagę, że także dotyczy aplikacji mobilnych.
-
-W treści użyto cytatów z ustawy.
 
 [Ustawa z 4 kwietnia 2019 r.](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848) dotyczy (art. 2):
 
@@ -62,7 +62,9 @@ Strony internetowe i aplikacje mobilne powinny spełniać kryteria sukcesu **WCA
 
 #### Oświadczenie dostępności
 
-Podmioty mają obowiązek publikacji oświadczenia dostępności (art. 10), który jest zgodny ze wzorem określonym w załączniku do [decyzji wykonawczej Komisji (UE) 2018/1523](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX%3A32018D1523). Deklaracja ponadto zawiera:
+Podmioty mają obowiązek publikacji oświadczenia dostępności (art. 10), który jest zgodny ze wzorem określonym w załączniku do [decyzji wykonawczej Komisji (UE) 2018/1523](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX%3A32018D1523). Podmioty publiczne dokonują przeglądu i aktualizacji deklaracji dostępności do **31 marca każdego roku** oraz niezwłocznie w każdym przypadku, gdy strona internetowa lub aplikacja mobilna podlega zmianom mogącym mieć wpływ na jej dostępność cyfrową (art .11). Ministerstwo Cyfryzacji opublikowało [warunki technicznej dot. deklaracji dostępności](https://mc.bip.gov.pl/objasnienia-prawne/warunki-techniczne-publikacji-oraz-struktura-dokumentu-elektronicznego-deklaracji-dostepnosci.html) (zgodnie z art. 22).
+
+Deklaracja ponadto zawiera:
 
 - datę publikacji strony internetowej lub aplikacji mobilnej;
 - datę ostatniej aktualizacji strony internetowej lub aplikacji mobilnej, po dokonaniu istotnej zmiany jej zawartości, polegającej w szczególności na zmianie wyglądu lub struktury prezentowanych informacji lub zmianie sposobu publikowania informacji;
@@ -74,8 +76,6 @@ Podmioty mają obowiązek publikacji oświadczenia dostępności (art. 10), któ
 - link do deklaracji dostępności aplikacji mobilnej, w przypadku posiadania przez podmiot publiczny aplikacji mobilnej;
 - informację o możliwości powiadomienia podmiotu publicznego o braku dostępności cyfrowej;
 - link do strony internetowej Rzecznika Praw Obywatelskich.
-
-Podmioty publiczne dokonują przeglądu i aktualizacji deklaracji dostępności do **31 marca każdego roku** oraz niezwłocznie w każdym przypadku, gdy strona internetowa lub aplikacja mobilna podlega zmianom mogącym mieć wpływ na jej dostępność cyfrową (art .11). Ministerstwo Cyfryzacji opublikowało [warunki technicznej dot. deklaracji dostępności](https://mc.bip.gov.pl/objasnienia-prawne/warunki-techniczne-publikacji-oraz-struktura-dokumentu-elektronicznego-deklaracji-dostepnosci.html) (zgodnie z art. 22).
 
 #### Odstępstwa
 
@@ -135,7 +135,7 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art
 
 ### Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami
 
-[Ustawa jest dostępna na stronie Sejmu RP](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001696). [Ustawa ma objąć 65 tys. podmiotów publicznych](https://www.gov.pl/web/inwestycje-rozwoj/projekt-ustawy-o-dostepnosci-w-konsultacjach). Dotyczy dostępności w szerszym zagadnieniu niż tylko strony internetowe:
+[Ustawa jest dostępna na stronie Sejmu RP](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001696). [Ustawa dotyczy 65 tys. podmiotów publicznych](https://www.gov.pl/web/inwestycje-rozwoj/projekt-ustawy-o-dostepnosci-w-konsultacjach). Dotyczy dostępności w szerszym zagadnieniu niż tylko strony internetowe:
 
 - dostęp architektoniczny;
 - organizowanie imprez masowych;

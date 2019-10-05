@@ -2,7 +2,7 @@
 
 ## Overflow-y
 
-Z poziomu klawiatury powinny być dostępne wszystkie elementy. W sytuacji użycia **overflow-y** (CSS) i pojawienia się suwaka należy pamiętać o możliwości obsługi takiego pola z poziomu klawiatury. 
+Z poziomu klawiatury powinny być dostępne wszystkie elementy. W sytuacji użycia **overflow** (CSS) i pojawienia się suwaka należy pamiętać o możliwości obsługi takiego pola z poziomu klawiatury. 
 Użycie **tabindex="0"** dla całej zawartości (np. długiego regulaminu) może spowodować, że czytnik ekranu się zawiesi. Lepszym rozwiązaniem jest zastosowanie **tabindex="0"** na elemencie tekstu np. tytule regulaminu.
 
 ## Outline
