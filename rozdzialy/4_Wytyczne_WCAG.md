@@ -26,7 +26,7 @@ Oprócz wytycznych są dodatkowe dokumenty (tysiące stron w języku angielskim)
 
 ## Przykładowe błędy WCAG 2.1
 
-Sekcja zawiera przykładowe błędy tylko tych kryteriów sukcesu, które są wymagane przez polskie prawo. W danym kryterium sukcesu można popełnić różne błędy, ale przykłady jest ograniczony do jednego typu błędu.
+**Sekcja zawiera przykładowe błędy tylko tych kryteriów sukcesu, które są wymagane przez polskie prawo**. W danym kryterium sukcesu można popełnić różne błędy, ale przykłady jest ograniczony do jednego typu błędu.
 
 ### 1.1.1–Treść nietekstowa
 
@@ -34,7 +34,10 @@ Zdjęcia powinny mieć atrybut alt, który zawiera informację co jest na zdjęc
 
 ### 1.2.1–Tylko audio oraz tylko wideo (nagranie)
 
-Jeśli mamy nagranie tylko audio albo tylko video powinny do niego być alternatywy dla osób niesłyszących (np. transkrypcja w przypadku pliku tylko audio) oraz dla osób niewidomych (np. tekst lub plik dźwiękowy w przypadku pliku tylko video).
+Jeśli mamy nagranie tylko audio albo tylko video powinny do niego być alternatywy:
+
+- dla osób niesłyszących (np. transkrypcja w przypadku pliku tylko audio);
+- dla osób niewidomych (np. tekst lub plik dźwiękowy w przypadku pliku tylko video).
 
 ### 1.2.2–Napisy rozszerzone (nagranie)
 
@@ -42,7 +45,7 @@ Wszystkie materiały multimedialne powinny posiadać napisy rozszerzone tj. dial
 
 ### 1.2.3–Audiodeskrypcja lub alternatywa dla mediów (nagranie)
 
-Osoba niewidoma powinna otrzymać audiodeskrypcję (dialogi + kluczowe obrazy np. awaria rzutnika, która wpływa na zachowanie na sali ). Alternatywą może być transkrypcja (dialogi + kluczowe dźwięki + kluczowe obrazy), która jest o tyle lepsza że pomoże także osobom głuchoniewidomym. **Zwróć uwagę na 1.2.5, które nakazuje obecność audiodeskrypcji**.
+Osoba niewidoma powinna otrzymać audiodeskrypcję (dialogi + informacje o kluczowych obrazach np. awaria rzutnika, która wpływa na zachowanie na sali ). Alternatywą może być transkrypcja (dialogi + kluczowe dźwięki + kluczowe obrazy), która jest o tyle lepsza że pomoże także osobom głuchoniewidomym. **Zwróć uwagę na 1.2.5, które nakazuje obecność audiodeskrypcji**.
 
 ### 1.2.5–Audiodeskrypcja (nagranie)
 
@@ -50,11 +53,11 @@ Kryterium sukcesu wymagane do spełnienia dopiero w ramach Ustawy z dnia 4 kwiet
 
 ### 1.3.1–Informacje i relacje
 
-Używanie niesemantyczne tagów może utrudniać korzystanie z narzędzi asystujących osobom z niepełnosprawnościami np. trzymanie danych tabelarycznych w div'ach:
+Używanie niesemantyczne tagów może utrudniać korzystanie z narzędzi asystujących np. trzymanie danych tabelarycznych w div'ach:
 
 ### 1.3.2–Zrozumiała kolejność
 
-Z kodu powinna wynikać logiczna kolejność.
+Za pomocą styli możemy zmienić kolejność elementów. Czytnik ekranu może innaczej odczytać tą kolejność. Powinniśmy zadbać o poprawną kolejność także w HTML (przetestować czytnikiem ekranu).
 
 ### 1.3.3–Właściwości zmysłowe
 
@@ -62,7 +65,7 @@ Instrukcje nie powinny opierać na właściwościach zmysłowych np. kształt, r
 
 ### 1.3.4 –Orientacja –wyświetlanie treści w układzie poziomym, jak i pionowym (WCAG 2.1)
 
-Niektóre osoby z niepełnosprawnościami mają na stałe przymocowane urządzenie (np. tablet, telefon) w określonej orientacji (np. poziomiem). Strona nie powinna blokować dostosowania się do innej orientacji (są wyjątki opisane w dokumentacji, ale dotyczą np. czeków albo grania na pianinie).
+Niektóre osoby z niepełnosprawnościami mają na stałe przymocowane urządzenie (np. tablet, telefon) w określonej orientacji (np. poziomo). Strona nie powinna blokować dostosowania się do innej orientacji (są wyjątki opisane w dokumentacji, ale dotyczą np. czeków albo grania na pianinie).
 
 ### 1.3.5 –Określenie prawidłowej wartości (WCAG 2.1)
 
@@ -113,7 +116,7 @@ Użytkownicy mający problem z czytaniem (np. słabowidzący albo dyslektycy) po
 
 Błąd często jest powodowany ustawianiem stałej szerokości kontenerów.
 
-### 1.4.13 –Treści spod kursora lub fokusa (WCAG 2.1)
+### 1.4.13 – Treści spod kursora lub fokusa (WCAG 2.1)
 
 Często na stronie jest wyzwalana dodatkowa treść po najechaniu myszą lub wejściu fokusem na element. Powinna ona spełniać następujące warunki:
 
@@ -121,77 +124,79 @@ Często na stronie jest wyzwalana dodatkowa treść po najechaniu myszą lub wej
 - przesunięcie wskaźnika myszy lub fokusa nie powoduje zniknięcie nowej treści;
 - treść powinna zostać do czasu, aż wskaźnik myszy lub fokus nie wyjdzie z elementu wyzwalającego nową treść lub nowa treść nie zostanie zamknięta lub nie będzie już aktualna.
 
-Osoby z trudnościami motorycznymi mogą mieć problem z utrzymaniem myszy nad danym elementem. Osoby słabowidzące mogą mieć problem podczas korzystania z technologii asystujących,ponieważ dodatkowa treść może nieprawidłowo działać przy powiększeniu strony. Osoby z zaburzeniami poznawczymi wymagają dłuższego czasu do zapoznania się z treścią.
+Osoby z trudnościami motorycznymi mogą mieć problem z utrzymaniem myszy nad danym elementem. Osoby słabowidzące mogą mieć problem podczas korzystania z technologii asystujących, ponieważ dodatkowa treść może nieprawidłowo działać przy powiększeniu strony. Osoby z zaburzeniami poznawczymi wymagają dłuższego czasu do zapoznania się z treścią.
 
 [Więcej w artykule o kryterium 1.4.13](https://knowbility.org/blog/2018/WCAG21-1413ContentHoverFocus/).
 
-### 2.1.1–Klawiatura
+### 2.1.1 – Klawiatura
 
 Każdy element powinien być dostępny z poziomu klawiatury. Docenią to szczególnie osoby niewidome i osoby z uszkodzonymi kończynami górnymi.
 
-### 2.1.2–Brak pułapki na klawiaturę
+### 2.1.2 – Brak pułapki na klawiaturę
 
 Użytkownik nie powinien być zmuszony użyć myszki, aby wyjść z danego elementu strony.
 
-### 2.1.4 –Jednoliterowe skróty klawiszowe (WCAG 2.1)
+### 2.1.4 – Jednoliterowe skróty klawiszowe (WCAG 2.1)
 
-Kryterium Sukcesu dodane w WCAG 2.1
+Jeżeli udostępniamy skróty na klawiaturze to użytkownik powinien mieć możliwość wyłączenia lub zmiany klawiszy albo powinien być aktywowany jak jest na nim fokus. Jest to ważne dla osób korzystających z technologii asystujących, którzy mogą mieć problem z poruszaniem się po stronie.
 
-### 2.2.1–Możliwość dostosowania czasu
+### 2.2.1 – Możliwość dostosowania czasu
 
 Jeżeli treść jest dostępna przez określony czas to użytkownik powinien mieć możliwość wyłączenia limitu czasowego lub dostosowanie go albo wydłużenie (po otrzymaniu ostrzeżenia o kończącym się czasie). Jest to szczególnie ważne dla osób niewidomych i z zaburzeniami poznawczymi.
 
-### 2.2.2–Wstrzymywanie (pauza), zatrzymywanie, ukrywanie
+### 2.2.2 – Wstrzymywanie (pauza), zatrzymywanie, ukrywanie
 
 Użytkownik musi mieć opcję zatrzymania lub ukrycia informacji, która przesuwa się, porusza, migota lub automatycznie jest aktualizowana. Jest to szczególnie ważne dla osób słabowidzących i z zaburzeniami poznawczymi.
 
-### 2.3.1–Trzy błyski lub wartości poniżej progu
+### 2.3.1 – Trzy błyski lub wartości poniżej progu
 
 Strona nie powinna zawierać nic co migocze częściej niż trzy razy w ciągu sekundy. Może to spowodować atak padaczki. Takim najgłośniejszym przypadkiem wywołania ataku był jeden z odcinków serialu animowanego Pokemon.
 
-### 2.4.1–Możliwość pominięcia bloków
+### 2.4.1 – Możliwość pominięcia bloków
 
 Strona internetowa powinna mieć mechanizm umożliwiający pomijanie bloków treści, np. poprzez dobrze zrealizowane nagłówki lub [skip linki](http://internet-bez-barier.com/skip-linki-czym-sa-i-do-czego-sluza/).
 
-### 2.4.2–Tytuły stron
+### 2.4.2 – Tytuły stron
 
 Strona internetowa powinna posiadać tytuł, który opisuje cel i temat strony.
 
-### 2.4.3–Kolejność fokusu
+### 2.4.3 – Kolejność fokusu
 
 Strona internetowa powinna "łapać" fokus w logicznej kolejności. Jeśli mamy rozdziały to naturalne jest, że fokus powinien skakać w kolejności w jakiej są rozdziały.
 
-### 2.4.4–Cel linku (w kontekście)
+### 2.4.4 – Cel linku (w kontekście)
 
-Cel linku powinien wynikać z samego linku. Bardzo często mamy liczne linki o nazwie "więcej". Użytkownik niewidomy nie jest w stanie zrozumieć dokąd prowadzi link. Link taki powinien mieć dodatkowy tekst o celu (ukryty za pomocą CSS-ów).
+Cel linku powinien wynikać z samego linku. Bardzo często mamy liczne linki o nazwie "więcej". Użytkownik niewidomy nie jest w stanie zrozumieć dokąd prowadzi link. Link taki powinien mieć dodatkowy tekst o celu (np. ukryty za pomocą CSS-ów).
 
-### 2.4.5–Wiele sposobów na zlokalizowanie strony
+### 2.4.5 – Wiele sposobów na zlokalizowanie strony
 
-Powinny być przynajmniej dwa sposoby zlokalizowania danej strony w serwisie np. poprzez menu i wyszukiwarkę albo poprzez menu i mapę strony.
+Powinny być przynajmniej dwa sposoby zlokalizowania danej strony w serwisie np.: poprzez menu i wyszukiwarkę albo poprzez menu i mapę strony.
 
-### 2.4.6–Nagłówki i etykiety
+### 2.4.6 – Nagłówki i etykiety
 
 Strona powinna mieć nagłówki i etykiety, które opisują temat lub cel treści.
 
-### 2.4.7–Widoczny fokus
+### 2.4.7 – Widoczny fokus
 
 Osoby poruszające się wyłącznie za pomocą klawiatury wymagają zawsze widocznego fokusa.
 
-### 2.5.1 –Gesty punktowe (WCAG 2.1)
+### 2.5.1 – Gesty punktowe (WCAG 2.1)
 
-Kryterium Sukcesu dodane w WCAG 2.1
+Strona powinna umożliwiać obsługę funkcjonalności za pomocą jednego palca (np. mapy przy powiększaniu wymagają dwóch palców, ale jest alternatywa w postaci przycisku).
 
-### 2.5.2 –Anulowanie kliknięcia (WCAG 2.1)
+### 2.5.2 – Anulowanie kliknięcia (WCAG 2.1)
 
-Kryterium Sukcesu dodane w WCAG 2.1
+Użytkownik przypadkowo może kliknąć przycisk (zwłaszcza z brakiem pełnej sprawności ruchowej), dlatego powinna istnieć możliwość anulowania danej czynności. Jeżeli mamy aplikacje do połączeń i użytkownik kliknie na "zakończ połączenie" to w przypadku automatycznego zakończenia będzie to uznane za błąd. Obejściem jest możliwość zsunięcia palca z naciskanego przycisku "zakończ połączenie" i w ten sposób anulowanie kliknięcia.
 
-### 2.5.3 –Etykieta w nazwie (WCAG 2.1)
+### 2.5.3 – Etykieta w nazwie (WCAG 2.1)
 
-Kryterium Sukcesu dodane w WCAG 2.1
+Od strony programistycznej też należy nawiązywać do widocznej nazwy przycisku.
+
+[Więcej o kryterium 2.5.3 (strona w języku angielskim)](https://knowbility.org/blog/2018/WCAG21-253LabelInName/)
 
 ### 2.5.4 –Aktywowanie ruchem (WCAG 2.1)
 
-Kryterium Sukcesu dodane w WCAG 2.1
+Czynności wymagające ruchu (np. w telefonie przechylenie) mają swoją alternatywę w postaci interfejsu użytkownika.
 
 ### 3.1.1–Język strony
 
@@ -207,7 +212,7 @@ Oznaczenie fokusem nie powinno zmieniać kontekst (np. wysyłać formularz, prze
 
 ### 3.2.2–Podczas wprowadzania danych
 
-W trakcie wprowadzania danych nie powinien zmieniać się kontekst (np. wysyłać formularz).
+W trakcie wprowadzania danych nie powinien zmieniać się kontekst (np. wysyłać formularz po wprowadzeniu pełnego kodu pocztowego).
 
 ### 3.2.3–Konsekwentna nawigacja
 
@@ -215,7 +220,7 @@ Ważne jest, żeby nawigacja była konsekwentna tzn. nie powinniśmy zmieniać u
 
 ### 3.2.4–Konsekwentna identyfikacja
 
-Ważne jest, żeby te same komponenty były konsekwentnie nazywane.
+Ważne jest, żeby te same komponenty (opcje) były konsekwentnie nazywane.
 
 ### 3.3.1–Identyfikacja błędu
 
@@ -223,7 +228,7 @@ Po wykryciu błędu należy wskazać błędny element i wyświetlić opis.
 
 ### 3.3.2–Etykiety lub instrukcje
 
-Jeżeli jest wymagany określony format wprowadzenia danych powinien być wyświetlony odpowiedni format wprowadzenia danych.
+Jeżeli jest wymagany określony format wprowadzenia danych powinien być wyświetlona podpowiedź.
 
 ### 3.3.3–Sugestie korekty błędów
 
@@ -233,9 +238,9 @@ Jeżeli wykryliśmy błąd podczas wprowadzania danych i wiemy jak to poprawić 
 
 Na stronach, gdzie jest:
 
-- możliwość zaciągania zobowiązań prawnych lub transakcji finansowych,
-- modyfikacja danych,
-- zadania testowe,
+- możliwość zaciągania zobowiązań prawnych lub transakcji finansowych;
+- modyfikacja danych;
+- zadania testowe;
   użytkownik powinien móc przynajmniej mieć jedną z możliwości:
 - wprowadzane dane są odwracalne;
 - dane są sprawdzane pod kątem błędów i użytkownik może wprowadzić poprawki;
@@ -251,6 +256,6 @@ Tworząc własne komponenty musimy zapewnić, aby były one dostępne dla techno
 
 ### 4.1.3 –Komunikaty o stanie (WCAG 2.1)
 
-Kryterium Sukcesu dodane w WCAG 2.1
+Powinno się informować technologie asystujące (np. czytnik ekranu) o zmianie stanu np. rezerwując salę trzeba kliknąć przycisk. Wizualnie może być to oznaczone, ale czytnik ekranu powinien również dostawać informację, że sale zarezerwowano (wykorzystanie ARIA).
 
 ## [Wróć do spisu treści](../README.md)
