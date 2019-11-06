@@ -39,6 +39,8 @@ Poniżej przykład weryfikacji atrybutu **alt** (wystarczy przeglądarka interne
 
 Kliknij prawym przyciskiem myszy na obrazek, a następnie wybierz "zbadaj" (opcja w Chrome, w Firefoxie opcja nazywa się "zbadaj element"). W kodzie znajdziesz linijkę **alt="Włocławek"**. To jest właśnie linijka opisująca obrazek, która jest czytana przez czytnik ekranu. Zwróć uwagę, że opis jest niepoprawny. Prawidłowo opisany obrazek informuje co znajduje się na obrazku. W tym przypadku poprawny opis to: **alt="Budynek z czerownej cegły. Na budynku są narysowane litery KZMR"**.
 
+![Zdjęcie otwartej konsoli programisty i kodu HTML z altem o wartości "Włocławek". Powyżej zdjęcie budynku z czerwonej cegłu](../grafika/Kod.png)
+
 ### 1.2.1–Tylko audio oraz tylko wideo (nagranie)
 
 Jeśli mamy nagranie tylko audio albo tylko video powinny do niego być alternatywy:
