@@ -56,6 +56,12 @@ Na stronie [Ministerstwa Obrony Narodowej](https://www.gov.pl/web/obrona-narodow
 
 Wszystkie materiały multimedialne powinny posiadać napisy rozszerzone tj. dialogi i kluczowe informacje dźwiękowe (np. słychać alarm przeciwpożarowy). Jest to niezbędne dla osób niesłyszących i słabosłyszących. Pomocne będzie także dla osób z zaburzeniami poznawczymi oraz osób z uszkodzonymi głośnikami lub w głośnym miejscu (balkon nad ulicą) albo cichym (biblioteka).
 
+Materiał Ministerstwa Środowiska pt. "Przeżyj to! Polskie parki narodowe" – Wielkopolski Park Narodowy" nie zawiera napisów rozszerzonych. Pomimo, że platforma Youtube umożliwia dodawanie napisów do filmów.
+[![Kliknij, aby przejść do serwisu Youtube z filmem o Wielkopolskim Parku Narodowym](../grafika/film.png)](https://www.youtube.com/watch?v=gJ-yo8JSSM8)
+
+Przykład poprawnie zrealizowanych napisów rozszerzonych możemy zobaczyć w filmie Ministerstwa Inwestycji i Rozwoju. Kanał Youtube umożliwia włączenie napisów. W przypadku poruszania się czytnikiem ekranu należy tabulatorem dojść do opcji w filmie (przycisk nazywa się "napisy"). Pozostali użytkownicy mogą włączyć napisy poprzez kliknięcie pierwszej ikony w prawym dolnym rogu filmu.
+[![Kliknij, aby przejść do serwisu Youtube z filmem pt. "(Chyba) zgubiłem e-dowód..."](../grafika/film.png)](https://www.youtube.com/watch?v=OoVjosN0Ox8)
+
 ### 1.2.3–Audiodeskrypcja lub alternatywa dla mediów (nagranie)
 
 Osoba niewidoma powinna otrzymać audiodeskrypcję (dialogi + informacje o kluczowych obrazach np. awaria rzutnika, która wpływa na zachowanie na sali ). Alternatywą może być transkrypcja (dialogi + kluczowe dźwięki + kluczowe obrazy), która jest o tyle lepsza że pomoże także osobom głuchoniewidomym. **Zwróć uwagę na 1.2.5, które nakazuje obecność audiodeskrypcji**.
