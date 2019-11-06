@@ -30,7 +30,14 @@ Oprócz wytycznych są dodatkowe dokumenty (liczne strony w języku angielskim) 
 
 ### 1.1.1–Treść nietekstowa
 
-Zdjęcia powinny mieć atrybut alt, który zawiera informację co jest na zdjęciu. Jest to istotne dla osób niewidomych i z wyłączonymi obrazkami w przeglądarce. Grafika ozdobna musi mieć pusty atrybut alt (alt="" - czytnik ekranu ignoruje takie obrazki). Błędny opis obrazka to też błąd.
+Grafika powinna mieć opis, który jest dostępny dla czytnika ekranu. Taki opis umieszcza się w kodzie HTML (atrybut **alt="Opis obrazka"**). Istotne jest opisanie zawartości grafiki. W przypadku nieprawidłowego opisu będzie to uznane jako błąd. Bardzo często redaktorzy stron dodają do grafiki opis: "Zdjęcie 1", które osobie niewidomej nie jest w stanie pomóc.
+Jest też wyjątek od obowiązku uzupełniania atrybutu **alt**. Jest nim grafika ozodbna. Dla poprawnej współpracy z czytnikiem ekranu artybut **alt** musi być w kodzie, ale powinien być pusty (Poprawny zapis w kodzie: **alt=""**).
+
+Poniżej przykład weryfikacji atrybutu **alt** (wystarczy przeglądarka internetowa).
+
+![Włocławek](http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W%C5%82oc%C5%82awek-KZMR_inscription.jpg/800px-W%C5%82oc%C5%82awek-KZMR_inscription.jpg)
+
+Kliknij prawym przyciskiem myszy na obrazek, a następnie wybierz "zbadaj" (opcja w Chrome, w Firefoxie opcja nazywa się "zbadaj element"). W kodzie znajdziesz linijkę **alt="Włocławek"**. To jest właśnie linijka opisująca obrazek, która jest czytana przez czytnik ekranu. Zwróć uwagę, że opis jest niepoprawny. Prawidłowo opisany obrazek informuje co znajduje się na obrazku. W tym przypadku poprawny opis to: **alt="Budynek z czerownej cegły. Na budynku są narysowane litery KZMR"**.
 
 ### 1.2.1–Tylko audio oraz tylko wideo (nagranie)
 
