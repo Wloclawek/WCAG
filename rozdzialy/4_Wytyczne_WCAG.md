@@ -48,6 +48,10 @@ Jeśli mamy nagranie tylko audio albo tylko video powinny do niego być alternat
 - dla osób niesłyszących (np. transkrypcja w przypadku pliku tylko audio);
 - dla osób niewidomych (np. tekst lub plik dźwiękowy w przypadku pliku tylko video).
 
+Na stronie [Ministerstwa Obrony Narodowej](https://www.gov.pl/web/obrona-narodowa/materialy-audio) mamy materiały audio, która nie posiadają alternatywy dla osób niesłyszących.
+
+![Strona internetowa Ministerstwa Obrony Narodowej z plikami audio. Strzałka pokazuję plik Telegram.wav, który podobnie jak inne nie posiada transkrypcji](../grafika/Wav.png)
+
 ### 1.2.2–Napisy rozszerzone (nagranie)
 
 Wszystkie materiały multimedialne powinny posiadać napisy rozszerzone tj. dialogi i kluczowe informacje dźwiękowe (np. słychać alarm przeciwpożarowy). Jest to niezbędne dla osób niesłyszących i słabosłyszących. Pomocne będzie także dla osób z zaburzeniami poznawczymi oraz osób z uszkodzonymi głośnikami lub w głośnym miejscu (balkon nad ulicą) albo cichym (biblioteka).
