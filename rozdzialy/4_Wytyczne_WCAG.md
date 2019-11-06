@@ -2,7 +2,7 @@
 
 ## Co to jest WCAG?
 
-Międzynarodowe wytyczne WCAG (Web Content Accessibility Guidelines) są opracowywane przez [grupę W3C](https://www.w3.org/WAI/). Jest to norma międzynarodowa, która jest wykorzystywana w aktach prawnych w wielu krajach. Jest to zbiór zasad, które poprawiają dostępność stron dla osób z niepełnosprawnościami.
+Międzynarodowe wytyczne WCAG (Web Content Accessibility Guidelines) są opracowywane przez [grupę W3C](https://www.w3.org/WAI/). Jest to zbiór zasad, które poprawiają dostępność stron dla osób z niepełnosprawnościami. Wytyczne są wykorzystywane w aktach prawnych w wielu krajach.
 
 Mamy różne wersje wytycznych:
 
@@ -12,7 +12,7 @@ Mamy różne wersje wytycznych:
 
 Wytyczne dzielą się na kryteria sukcesu (WCAG 2.0 - 61, WCAG 2.1 - 78). Każde z kryterium ma przypisany poziom (A, AA, AAA). Spełnienie wszystkich wytycznych nie zawsze da pełną dostępność (WCAG zawiera takie zastrzeżenie), dlatego warto testować z użytkownikami z niepełnosprawnościami. Dodatkowo wytyczne mówią, że spełnienie wytycznych na najwyższym poziomie AAA nie zawsze jest możliwe.
 
-Oprócz wytycznych są dodatkowe dokumenty (tysiące stron w języku angielskim) np.:
+Oprócz wytycznych są dodatkowe dokumenty (liczne strony w języku angielskim) np.:
 
 - [„How to Meet WCAG 2.1” — lista kontrolna](https://www.w3.org/WAI/WCAG21/quickref/);
 - [„Understanding WCAG 2.1” — bardziej szczegółowy opis WCAG pozwalający zrozumieć istotę problemów](https://www.w3.org/WAI/WCAG21/Understanding/);
@@ -26,11 +26,11 @@ Oprócz wytycznych są dodatkowe dokumenty (tysiące stron w języku angielskim)
 
 ## Przykładowe błędy WCAG 2.1
 
-**Sekcja zawiera przykładowe błędy tylko tych kryteriów sukcesu, które są wymagane przez polskie prawo**. W danym kryterium sukcesu można popełnić różne błędy, ale przykłady jest ograniczony do jednego typu błędu.
+**Sekcja zawiera przykładowe błędy tylko tych kryteriów sukcesu, które są wymagane przez polskie prawo**. W danym kryterium sukcesu można popełnić różne błędy, ale przykłady jest ograniczony zazwyczaj do jednego typu błędu.
 
 ### 1.1.1–Treść nietekstowa
 
-Zdjęcia powinny mieć atrybut alt, który zawiera informację co jest na zdjęciu. Jest to istotne dla osób niewidomych i z wyłączonymi obrazkami w przeglądarce. Grafika ozdobna musi mieć pusty alt (alt="" - czytnik ekranu ignoruje takie obrazki). Błędny opis obrazka to też błąd.
+Zdjęcia powinny mieć atrybut alt, który zawiera informację co jest na zdjęciu. Jest to istotne dla osób niewidomych i z wyłączonymi obrazkami w przeglądarce. Grafika ozdobna musi mieć pusty atrybut alt (alt="" - czytnik ekranu ignoruje takie obrazki). Błędny opis obrazka to też błąd.
 
 ### 1.2.1–Tylko audio oraz tylko wideo (nagranie)
 
