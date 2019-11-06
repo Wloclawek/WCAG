@@ -11,6 +11,6 @@ Więcej o zasadach tworzenia tekstów zrozumiałych dla wszystkich można znale�
 
 Przykładowe elementy utrudniające poruszanie się po stronie
 
-[![](http://img.youtube.com/vi/PY1m-1UjRhw/0.jpg)](http://www.youtube.com/watch?v=PY1m-1UjRhw "Kliknij, aby przejść do kanału Youtube")
+[![Kliknij, aby przejść do serwisu Youtube z filmem o problemach na jakie natrafiają użytkownicy](../grafika/film.png)](http://www.youtube.com/watch?v=PY1m-1UjRhw)
 
 ## [Wróć do spisu treści](../README.md)

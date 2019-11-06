@@ -2,37 +2,37 @@
 
 ## Rodzaje niepełnosprawności czyli nie tylko osoby niewidome!
 
-![Grafika jest podzielona na cztery elementy. Każdy symbolizuje jeden rodzaj niepełnosprawności. Ikonka osoby na wózku dotyczy osób z niepełnosprawnością ruchową. Ikonka z zaznaczonym mózgiem dotyczy osób z niepełnosprawnością intelektualną. Ikonka ułożonych dłoni dotyczy osób z niepełnosprawnością narządu słuchu. Ikonka człowieka z laską dotyczy osób z niepełnosprawnością narządu wzroku](https://upload.wikimedia.org/wikipedia/commons/f/f6/Disability_symbols.svg)
+![Grafika jest podzielona na cztery elementy. Każdy symbolizuje jeden rodzaj niepełnosprawności. Ikonka osoby na wózku dotyczy osób z niepełnosprawnością ruchową. Ikonka z zaznaczonym mózgiem dotyczy osób z niepełnosprawnością intelektualną. Ikonka ułożonych palców w literę o dotyczy osób z niepełnosprawnością narządu słuchu. Ikonka człowieka z laską dotyczy osób z niepełnosprawnością narządu wzroku](https://upload.wikimedia.org/wikipedia/commons/f/f6/Disability_symbols.svg)
 
 Grafika pochodzi z serwisu Wikimedia. Nie jest częścią tego repozytorium.
 
-Źle przygotowane produkty cyfrowe utrudniają dostęp do informacji. Bardzo często twórcy skupiają się wyłącznie na osobach niewidomych, a jest to błędne podejście. Problem mogą mieć:
+Źle przygotowane produkty cyfrowe utrudniają dostęp do informacji. Bardzo często twórcy skupiają się wyłącznie na osobach niewidomych, a jest to błędne podejście. Problem mogą mieć także:
 
 - osoby z dysfunkcją narządu ruchu (np. uszkodzone kończyny górne uniemożliwiające korzystanie z myszki);
 - osoby z zaburzeniami poznawczymi (np. choroby otępienne typu Alzheimer, Parkinson, AIDS utrudniają zrozumienie tekstów. Podobne problemy mogą mieć osoby z zaburzeniami intelektualnymi.)
 - osoby z dysfunkcją narządu słuchu (np. brak napisów w filmach);
 - osoby z dysfunkcją narządu wzroku (np. wykresy w postaci obrazka bez alternatywnej formy dla osób niewidomych).
 
-Sama grupa, która ma problemy z narządem wzroku jest bardzo różnorodna i może spotykać się z trudnościami charakterystycznymi tylko dla konkretnego schorzenia. Wśród tej grupy mamy osoby:
+Sama grupa, która ma problemy spowodowane narządem wzroku jest bardzo różnorodna i może spotykać się z trudnościami charakterystycznymi tylko dla konkretnego schorzenia. Wśród tej grupy mamy osoby:
 
 - z zaburzeniem rozpoznawania barw (np. oznaczenie tylko kolorem);
 - niewidome (np. brak opisów zdjęć);
 - niedowidzące (np. niewłaściwy kontrast);
 - głuchoniewidome (np. brak transkrypcji dla materiałów multimedialnych);
-- z innymi uszkodzeniami narządu wzorku (np. znikające elementy w trybie wysokiego kontrastu).
+- z innymi uszkodzeniami narządu wzorku (np. znikające elementy w trybie wysokiego kontrastu systemu Windows).
 
-Należy również pamiętać o osobach z niepełnosprawnościami krzyżowymi np. zaburzenie rozpoznawania barw i uszkodzone kończyny górne. Nie jesteśmy w stanie przewidzieć kombinacji dysfunkcji. Z pomocą przychodzą nam międzynarodowe wytyczne WCAG, które są **uniwersalnymi** zasadami tworzenia stron.
+Należy również pamiętać o osobach z niepełnosprawnościami krzyżowymi np. zaburzenie rozpoznawania barw i uszkodzone kończyny górne. Nie jesteśmy w stanie przewidzieć kombinacji dysfunkcji. Z pomocą przychodzą nam międzynarodowe wytyczne WCAG, które są **uniwersalnymi** zasadami tworzenia stron (szerzej o wytycznych w dalszej cześci tekstów).
 
-Z usprawnień skorzystają także wyszukiwarki (pozycjonowanie stron internetowych) i osoby bez niepełnosprawności np.:
+Z usprawnień skorzystają także wyszukiwarki (pozycjonowanie stron internetowych) i osoby pełnosprawne np.:
 
-- z uszkodzoną myszką/touchpadem lub dźwiękiem (np. poruszanie się za pomocą klawiatury, napisy w filmach);
+- z uszkodzoną myszką/touchpadem lub dźwiękiem (np. poruszają się za pomocą klawiatury, czytają napisy w filmach);
 - w miejscach wymagających ciszy (np. biblioteka) lub dużego hałasu (przedział w pociągu);
-- w miejscach utrudniającym korzystanie z ekranu (np. słońce);
-- ze specyficznymi ustawieniami lub uszkodzeniami monitora (np. mogą nie zobaczyć elementów jasnych na jasnym tle);
+- w miejscach utrudniającym korzystanie z ekranu (np. Słońce);
+- ze specyficznymi ustawieniami monitorami lub uszkodzeniami sterowników albo ekranu (np. mogą nie zobaczyć elementów jasnych na jasnym tle);
 - osoby starsze (np. problemy z koordynacją ruchową i rozumieniem tekstów);
-- osoby z ADHD lub dysleksją (np. problemy ze skupieniem związane z migającymi elementami lub formatowaniem strony - tzw. ściana tekstu);
+- osoby z ADHD lub dysleksją (np. problemy ze skupieniem związane z migającymi elementami lub formatowaniem strony - tzw. ściany tekstu);
 - osoby słabiej wykształcone (np. problemy ze zrozumieniem tekstów);
-- osoby dobrze wykształcone (np. teksty też mogą taką grupę wykluczać. Informacje dot. funduszy unijnych do zrozumienia wymagały poziomu doktoratu. To narodziło projekt "Prosty Język" w Ministerstwie Inwestycji i Rozwoju).
+- osoby dobrze wykształcone (np. teksty też mogą taką grupę wykluczać. Informacje dot. funduszy unijnych do zrozumienia wymagały poziomu doktoratu).
 
 Każda osoba może borykać się z tymczasową niepełnosprawnością np.:
 
@@ -46,25 +46,25 @@ Nigdy nie jesteśmy w stanie przewidzieć odbiorcy naszego produktu! Nigdy nie z
 
 ### Poznajcie Svena, który gra w Street Fightera wyłącznie korzystając ze słuchu!
 
-[![](http://img.youtube.com/vi/X6IjmmFcoWw/0.jpg)](http://www.youtube.com/watch?v=X6IjmmFcoWw)
+[![Kliknij, aby przejść do kanału Youtube z filmem na temat niewidomego gracza](../grafika/film.png)](http://www.youtube.com/watch?v=X6IjmmFcoWw)
 
 Jeśli tworzysz gry na dobrym poziomie to powinieneś znać [wytyczne dostępności dla twórców gier (w języku angielskim)](http://gameaccessibilityguidelines.com/).
 
 ### Polak stworzył komunikator dla hip-hopowców, gdzie można było się komunikować gestami.
 
-Po pojawieniu się aplikacji Amerykanka podsunęła pomysł, aby przekształcić aplikację w komunikator dla osób z dysfunkcją narządu słuchu (gesty i mimika twarzy). Obecnie firma rozwija się w tym kierunku, a aplikacją są zainteresowani najwięksi z branży IT.
+Po pojawieniu się aplikacji użytkowniczka podsunęła pomysł, aby przekształcić aplikację w komunikator dla osób z dysfunkcją narządu słuchu (gesty i mimika twarzy). Obecnie firma rozwija się w tym kierunku, a aplikacją są zainteresowani najwięksi z branży informatycznej.
 
 [Więcej o aplikacji Five App](https://businessinsider.com.pl/firmy/five-app-komunikator-dla-gluchych-tlumacz-jezyka-migowego/kcd079d)
 
 Dlaczego używane są gesty zamiast języka?
 
-Część osób głuchych w Polsce (np. od urodzenia) posługuję się Polskim Językiem Migowym (PJM). Dla nich język polski jest językiem obcym, dlatego ważne jest rozwijanie skrótów, unikanie obcych słów, pisanie zrozumiałym językiem. [Ciekawa inicjatywa zrozumiałego języka o Funduszach Europejskich jest dostępna na stronie Ministerstwa Inwestycji i Rozwoju](https://www.funduszeeuropejskie.gov.pl/strony/o-funduszach/promocja/prosto-o-funduszach-europejskich/). Każdy kraj ma swój własny język migowy. W Polsce jest jeszcze System Językowo-Migowy (SJM). **UWAGA:** osoby głuche korzystają z PJM i w tym języku należy tłumaczyć! SJM nie jest językiem stosowanym w domach, gdzie są osoby głuche.
+Część osób głuchych w Polsce (np. od urodzenia) posługuje się Polskim Językiem Migowym (PJM). Dla nich język polski jest językiem obcym, dlatego ważne jest rozwijanie skrótów, unikanie obcych słów, pisanie zrozumiałym językiem. [Ciekawa inicjatywa dotycząca języka o Funduszach Europejskich jest dostępna na stronie Ministerstwa Inwestycji i Rozwoju](https://www.funduszeeuropejskie.gov.pl/strony/o-funduszach/promocja/prosto-o-funduszach-europejskich/). Każdy kraj ma swój własny język migowy. W Polsce jest jeszcze System Językowo-Migowy (SJM). **UWAGA:** osoby głuche korzystają z PJM i w tym języku należy tłumaczyć! SJM nie jest językiem stosowanym w domach, gdzie są osoby głuche.
 
 ### Koncert Eminema i osoby niesłyszące?
 
 Oczywiście, że to nie jest problem! Warto przy okazji wspomnieć, że Youtube wspiera tworzenie napisów do nagrań video.
 
-[![](http://img.youtube.com/vi/VFRXaif1ewc/0.jpg)](http://www.youtube.com/watch?v=VFRXaif1ewc)
+[![Kliknij, aby przejść do kanału Youtube z filmem z koncertu Eminema](../grafika/film.png)](http://www.youtube.com/watch?v=VFRXaif1ewc)
 
 ### Niewidomi kibice na meczach piłki nożnej?
 
@@ -74,17 +74,17 @@ Kilka polskich klubów oferuje dostęp do audiodeskrypcji na stadionie. Specjaln
 
 ## Czy dostępność jest kosztowna?
 
-Tworzenie produktów dostępnych dla osób z niepełnosprawnościami to dobra praktyka. Nieprzestrzeganie standardów należy traktować jako tworzenie produktów niskiej jakości. Zwłaszcza, że standardy dostępności są opracowane przez tą samą organizacje, która odpowiada za [standardy dla Internetu - World Wide Web Consortium czyli W3C](https://pl.wikipedia.org/wiki/World_Wide_Web_Consortium).
+Tworzenie produktów dostępnych dla osób z niepełnosprawnościami to dobra praktyka. Nieprzestrzeganie standardów należy traktować jako tworzenie produktów niskiej jakości. Zwłaszcza, że standardy dostępności są opracowane przez organizację W3C, która odpowiada za [standardy dla Internetu - World Wide Web Consortium czyli W3C](https://pl.wikipedia.org/wiki/World_Wide_Web_Consortium).
 
 Może się zdarzyć, że cześć dobrych praktyk już wykorzystujemy np.:
 
 - unikamy dodawania skanów. Są one niedostępne dla czytników ekranu, ale i też dla wyszukiwarek internetowych;
-- dodajemy informację o języku strony (atrybut lang jest przydatny dla czytnika ekranu);
-- dodajemy opisy do obrazków (atrybut alt jest też przyjazny dla pozycjonowania);
+- dodajemy informację o języku strony (atrybut **lang** jest przydatny dla czytników ekranu);
+- dodajemy opisy do obrazków (atrybut **alt** jest też przyjazny dla pozycjonowania);
 - używamy poprawnie kodu HTML (np. wykorzystujemy nagłówki h1-h6, dodajemy tytuł strony, tworzymy kod przechodzący walidację W3C, przestrzegamy semantyki języka itd.);
 - tworzymy teksty zrozumiałe dla ogółu społeczeństwa;
-- używamy koloru czcionki, która jest dobrze widoczna na tle;
-- pozwalamy, aby każdy element strony był dostępny z poziomu klawiatury i widoczny (fokus);
+- używamy koloru czcionki, który jest dobrze widoczny na tle;
+- pozwalamy, aby każdy element strony był dostępny z poziomu klawiatury i posiadał fokus (obramowanie w trakcie poruszania się za pomocą klawiatury);
 - unikamy wskazówek opartych o zmysły np. "kliknij w zieloną ikonkę".
 
 Nowy produkt może wymagać bardzo niskich nakładów, aby uzyskać dostępność. Kluczowa tutaj jest wiedza osób zaangażowanych w tworzenie produktu:
@@ -98,7 +98,7 @@ Nowy produkt może wymagać bardzo niskich nakładów, aby uzyskać dostępnoś�
 
 Czasochłonnym elementem mogą być materiały multimedialne, dlatego od początku istnienia strony powinien być duży nacisk na biężace przygotowanie form dostępnych dla osób z niepełnosprawnościami (minimum prawne to napisy rozszerzone i audiodeskrypcja).
 
-Problem czasowy i kosztowy pojawia się w trakcie przebudowy serwisów, gdzie trzeba poprawić wcześniej popełnione błędy.
+Problem czasowy i kosztowy pojawia się w trakcie przebudowy serwisów, gdzie trzeba poprawić błędy.
 Ważna w ograniczaniu kosztów jest wiedza i testowanie na wszystkich etapach życia projektu.
 
 ## Dostępność to proces ciągły
@@ -114,7 +114,7 @@ Przykładowe błędy na różnych etapach:
 Dodatkowo wpływ na błędy mogą mieć:
 
 - późniejsze modyfikacje kodu lub grafiki oraz dodawane nowe treści;
-- zmiany w prawie (rozszerzenie wymaganego zakresu dostępności będzie miało odbicie w audytach WCAG);
+- zmiany w prawie (rozszerzenie wymaganego zakresu dostępności będzie miało odbicie w audytach dostępności);
 - błędna interpretacja wytycznych WCAG;
 - zmiany w technologii (np. rozwój urządzeń mobilnych, rozwój technologii dynamicznego wczytywania treści bez przeładowania strony itd.);
 - niewykryte błędy dostępności ("Testowanie pokazuje obecność, a nie brak błędów” - Edsger Dijkstra).
@@ -128,7 +128,7 @@ Według Narodowego Spisu Powszechnego Ludności i Mieszkań z 2011 r. w Polsce 
 
 ### Prawo
 
-Wykluczanie osób z niepełnosprawnościami z dostępu do informacji to łamanie prawa. Jest wiele aktów międzynarodowych i krajowych nakazujących sektorowi publicznemu dostępność stron internetowych dla osób z niepełnosprawnościami. W tym kierunku jest także zmieniane prawo dot. podmiotów prywatnych. Szerzej tematyka jest omawiana w dziale [Wymogi prawne](./rozdzialy/5_Wymogi_prawne.md).
+Wykluczanie osób z niepełnosprawnościami z dostępu do informacji to łamanie prawa. Jest wiele aktów międzynarodowych i krajowych nakazujących sektorowi publicznemu dostępność stron internetowych dla osób z niepełnosprawnościami. W tym kierunku jest także zmieniane prawo dot. sektora prywatnego. Szerzej tematyka prawna jest omawiana w dziale [Wymogi prawne](./rozdzialy/5_Wymogi_prawne.md).
 
 ### Kary finansowe
 
@@ -144,30 +144,29 @@ Ze względu na wymogi prawne sektor publiczny wyprzedził sektor prywatny w kont
 
 ### My sami - "Mądry Polak przed szkodą"
 
-Projektowanie uniwersalne wymaga od nas, aby budować produkty dostępne do jak najszerszej grupy osób. Nie trzeba specjalnych rozwiązań dla osób z niepełnosprawnościami. Wystarczy, że przy tworzeniu będziemy pamiętać o problemach tej grupy np. wskazówki na stronie nie będą się opierać tylko o zmysł wzroku. Być może sami lub nasi bliscy będziemy korzystać z tych rozwiązań. Nawet będąc osobom pełnosprawną docenimy dobry kontrast czy obsługę za pomocą klawiatury (np. złamana ręka). 
-Osoby z niepełnosprawnościami często nie mają alternatywy dla strony internetowej np. osoba głucha potrzebuje pośrednika, aby komunikować się za pomocą telefonu. Strony internetowe są znacznie większym ułatwieniem dla osób z niepełnosprawnościami niż dla osób pełnosprawnych.
+Projektowanie uniwersalne wymaga od nas, aby budować produkty dostępne dla jak najszerszej grupy osób. Bardzo często nie trzeba specjalnych rozwiązań dla osób z niepełnosprawnościamim, jeśli tworzymy produkty zgodnie z wytycznymi WCAG. Wystarczy, że przy tworzeniu będziemy pamiętać o problemach danej grupy np. wskazówki na stronie nie będą się opierać tylko o zmysł wzroku. Być może sami lub nasi bliscy będziemy korzystać z tych rozwiązań. Nawet będąc osobą pełnosprawną docenimy dobry kontrast czy obsługę za pomocą klawiatury (np. złamana ręka). 
+Osoby z niepełnosprawnościami często nie mają alternatywy dla strony internetowej np. osoba głucha potrzebuje pośrednika, aby komunikować na infolinii banku. Strony internetowe są znacznie większym ułatwieniem dla osób z niepełnosprawnościami niż dla osób pełnosprawnych.
 
 ## Narzędzia, z których korzystają osoby z niepełnosprawnościami
 
 Osoby z niepełnosprawnościami często wykorzystują specjalne sprzęty lub programy. Warto poznać w jaki sposób się poruszają po technologiach cyfrowych. [Szczegóły znajdziesz w dziale Wskazówki dla testerów](./9_Wskazowki_dla_testerow.md).
 
-## Utrudnienia na stronach internetowych (materiały video)
+## Utrudnienia na stronach internetowych (materiały multimedialne w serwisie Youtube)
 
 Osoby z dysfunkcją narządu wzroku:
-
-[![](http://img.youtube.com/vi/Fxn0gY_sAEM/0.jpg)](http://www.youtube.com/watch?v=Fxn0gY_sAEM "Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z dysfunkcją narządu wzroku")
+[![Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z dysfunkcją narządu wzroku](../grafika/film.png)](http://www.youtube.com/watch?v=Fxn0gY_sAEM)
 
 Osoby z dysfunkcją narządu słuchu:
 
-[![](http://img.youtube.com/vi/1yAB1M-ci2M/0.jpg)](http://www.youtube.com/watch?v=1yAB1M-ci2M "Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z dysfunkcją narządu słuchu")
+[![Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z dysfunkcją narządu słuchu](../grafika/film.png)](http://www.youtube.com/watch?v=1yAB1M-ci2M)
 
 Osoby z dysfunkcją ruchową:
 
-[![](http://img.youtube.com/vi/ylEq1TuPmhM/0.jpg)](http://www.youtube.com/watch?v=ylEq1TuPmhM "Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z ruchową")
+[![Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z ruchową](../grafika/film.png)](http://www.youtube.com/watch?v=ylEq1TuPmhM)
 
 Osoba z dysleksją:
 
-[![](http://img.youtube.com/vi/PY1m-1UjRhw/0.jpg)](http://www.youtube.com/watch?v=PY1m-1UjRhw "Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z dysleksją")
+[![Kliknij, aby przejść do kanału Youtube z filmem na temat problemów z jakimi borykają się osoby z dysleksją](../grafika/film.png)](http://www.youtube.com/watch?v=PY1m-1UjRhw)
 
 ## Savoir-vivre (dobre maniery) wobec osób z niepełnosprawnościami
 

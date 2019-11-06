@@ -2,7 +2,7 @@
 
 ## Co to jest WCAG?
 
-Międzynarodowe wytyczne WCAG (Web Content Accessibility Guidelines) są opracowywane przez [grupę W3C](https://www.w3.org/WAI/). Jest to norma międzynarodowa, która jest wykorzystywana w aktach prawnych w wielu krajach. Jest to zbiór zasad, które poprawiają dostępność stron dla osób z niepełnosprawnościami.
+Międzynarodowe wytyczne WCAG (Web Content Accessibility Guidelines) są opracowywane przez [grupę W3C](https://www.w3.org/WAI/). Jest to zbiór zasad, które poprawiają dostępność stron dla osób z niepełnosprawnościami. Wytyczne są wykorzystywane w aktach prawnych w wielu krajach.
 
 Mamy różne wersje wytycznych:
 
@@ -12,7 +12,7 @@ Mamy różne wersje wytycznych:
 
 Wytyczne dzielą się na kryteria sukcesu (WCAG 2.0 - 61, WCAG 2.1 - 78). Każde z kryterium ma przypisany poziom (A, AA, AAA). Spełnienie wszystkich wytycznych nie zawsze da pełną dostępność (WCAG zawiera takie zastrzeżenie), dlatego warto testować z użytkownikami z niepełnosprawnościami. Dodatkowo wytyczne mówią, że spełnienie wytycznych na najwyższym poziomie AAA nie zawsze jest możliwe.
 
-Oprócz wytycznych są dodatkowe dokumenty (tysiące stron w języku angielskim) np.:
+Oprócz wytycznych są dodatkowe dokumenty (liczne strony w języku angielskim) np.:
 
 - [„How to Meet WCAG 2.1” — lista kontrolna](https://www.w3.org/WAI/WCAG21/quickref/);
 - [„Understanding WCAG 2.1” — bardziej szczegółowy opis WCAG pozwalający zrozumieć istotę problemów](https://www.w3.org/WAI/WCAG21/Understanding/);
@@ -26,11 +26,20 @@ Oprócz wytycznych są dodatkowe dokumenty (tysiące stron w języku angielskim)
 
 ## Przykładowe błędy WCAG 2.1
 
-**Sekcja zawiera przykładowe błędy tylko tych kryteriów sukcesu, które są wymagane przez polskie prawo**. W danym kryterium sukcesu można popełnić różne błędy, ale przykłady jest ograniczony do jednego typu błędu.
+**Sekcja zawiera przykładowe błędy tylko tych kryteriów sukcesu, które są wymagane przez polskie prawo**. W danym kryterium sukcesu można popełnić różne błędy, ale przykłady jest ograniczony zazwyczaj do jednego typu błędu.
 
 ### 1.1.1–Treść nietekstowa
 
-Zdjęcia powinny mieć atrybut alt, który zawiera informację co jest na zdjęciu. Jest to istotne dla osób niewidomych i z wyłączonymi obrazkami w przeglądarce. Grafika ozdobna musi mieć pusty alt (alt="" - czytnik ekranu ignoruje takie obrazki). Błędny opis obrazka to też błąd.
+Grafika powinna mieć opis, który jest dostępny dla czytnika ekranu. Taki opis umieszcza się w kodzie HTML (atrybut **alt="Opis obrazka"**). Istotne jest opisanie zawartości grafiki. W przypadku nieprawidłowego opisu będzie to uznane jako błąd. Bardzo często redaktorzy stron dodają do grafiki opis: "Zdjęcie 1", które osobie niewidomej nie jest w stanie pomóc.
+Jest też wyjątek od obowiązku uzupełniania atrybutu **alt**. Jest nim grafika ozodbna. Dla poprawnej współpracy z czytnikiem ekranu artybut **alt** musi być w kodzie, ale powinien być pusty (Poprawny zapis w kodzie: **alt=""**).
+
+Poniżej przykład weryfikacji atrybutu **alt** (wystarczy przeglądarka internetowa).
+
+![Włocławek](http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W%C5%82oc%C5%82awek-KZMR_inscription.jpg/800px-W%C5%82oc%C5%82awek-KZMR_inscription.jpg)
+
+Kliknij prawym przyciskiem myszy na obrazek, a następnie wybierz "zbadaj" (opcja w Chrome, w Firefoxie opcja nazywa się "zbadaj element"). W kodzie znajdziesz linijkę **alt="Włocławek"**. To jest właśnie linijka opisująca obrazek, która jest czytana przez czytnik ekranu. Zwróć uwagę, że opis jest niepoprawny. Prawidłowo opisany obrazek informuje co znajduje się na obrazku. W tym przypadku poprawny opis to: **alt="Budynek z czerownej cegły. Na budynku są narysowane litery KZMR"**.
+
+![Zdjęcie otwartej konsoli programisty i kodu HTML z altem o wartości "Włocławek". Powyżej zdjęcie budynku z czerwonej cegłu](../grafika/Kod.png)
 
 ### 1.2.1–Tylko audio oraz tylko wideo (nagranie)
 
@@ -39,9 +48,19 @@ Jeśli mamy nagranie tylko audio albo tylko video powinny do niego być alternat
 - dla osób niesłyszących (np. transkrypcja w przypadku pliku tylko audio);
 - dla osób niewidomych (np. tekst lub plik dźwiękowy w przypadku pliku tylko video).
 
+Na stronie [Ministerstwa Obrony Narodowej](https://www.gov.pl/web/obrona-narodowa/materialy-audio) mamy materiały audio, która nie posiadają alternatywy dla osób niesłyszących.
+
+![Strona internetowa Ministerstwa Obrony Narodowej z plikami audio. Strzałka pokazuję plik Telegram.wav, który podobnie jak inne nie posiada transkrypcji](../grafika/Wav.png)
+
 ### 1.2.2–Napisy rozszerzone (nagranie)
 
 Wszystkie materiały multimedialne powinny posiadać napisy rozszerzone tj. dialogi i kluczowe informacje dźwiękowe (np. słychać alarm przeciwpożarowy). Jest to niezbędne dla osób niesłyszących i słabosłyszących. Pomocne będzie także dla osób z zaburzeniami poznawczymi oraz osób z uszkodzonymi głośnikami lub w głośnym miejscu (balkon nad ulicą) albo cichym (biblioteka).
+
+Materiał Ministerstwa Środowiska pt. "Przeżyj to! Polskie parki narodowe" – Wielkopolski Park Narodowy" nie zawiera napisów rozszerzonych. Pomimo, że platforma Youtube umożliwia dodawanie napisów do filmów.
+[![Kliknij, aby przejść do serwisu Youtube z filmem o Wielkopolskim Parku Narodowym](../grafika/film.png)](https://www.youtube.com/watch?v=gJ-yo8JSSM8)
+
+Przykład poprawnie zrealizowanych napisów rozszerzonych możemy zobaczyć w filmie Ministerstwa Inwestycji i Rozwoju. Kanał Youtube umożliwia włączenie napisów. W przypadku poruszania się czytnikiem ekranu należy tabulatorem dojść do opcji w filmie (przycisk nazywa się "napisy"). Pozostali użytkownicy mogą włączyć napisy poprzez kliknięcie pierwszej ikony w prawym dolnym rogu filmu.
+[![Kliknij, aby przejść do serwisu Youtube z filmem pt. "(Chyba) zgubiłem e-dowód..."](../grafika/film.png)](https://www.youtube.com/watch?v=OoVjosN0Ox8)
 
 ### 1.2.3–Audiodeskrypcja lub alternatywa dla mediów (nagranie)
 
