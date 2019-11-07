@@ -77,6 +77,116 @@ Deklaracja ponadto zawiera:
 - informację o możliwości powiadomienia podmiotu publicznego o braku dostępności cyfrowej;
 - link do strony internetowej Rzecznika Praw Obywatelskich.
 
+##### Przykładowa deklaracja dostępności wraz z obowiązkowymi ID (stan na listopad 2019 r.)
+
+Deklaracja musi zawierać dokładnie te same wartości ID. Jest to niezbędne dla mechanizmów automatycznie gromadzących deklaracje. Opróćz ID obowiązkowe jest też wystąpienie nagłówka poziomu pierwszego (h1) oraz nagłówka poziomu drugiego (h2). Opracowane na podstawie dokumentu pt.: [warunki technicznej dot. deklaracji dostępności](https://mc.bip.gov.pl/objasnienia-prawne/warunki-techniczne-publikacji-oraz-struktura-dokumentu-elektronicznego-deklaracji-dostepnosci.html)
+
+```html
+<h1 id="a11y-deklaracja">
+  Deklaracja dostępności serwisu NAZWA TWOJEGO SERWISU
+</h1>
+
+<span id="a11y-podmiot"> NAZWA INSTYTUCJI </span> zobowiązuje się zapewnić
+dostępność strony internetowej
+<a href="#" id="a11y-url"> ADRES STRONY </a> zgodnie z ustawą z dnia 4 kwietnia
+2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych
+podmiotów publicznych. Data publikacji strony internetowej:
+<span id="a11y-data-publikacja">DATA</span>
+
+Data ostatniej dużej aktualizacji:
+<span id="a11y-data-aktualizacja">DATA</span>.
+```
+
+Ważne jest, aby data miała format: rrrr-mm-dd.
+
+```html
+<span id="a11y-status"
+  >Strona internetowa jest zgodna z ustawą o dostępności cyfrowej stron
+  internetowych i aplikacji mobilnych podmiotów publicznych.</span
+>
+```
+
+W przypadku niespełnienia norm należy to oznaczyć jako:
+
+- częściowo zgodna;
+- niezgodna.
+
+Należy wypisać elementy niespełniające norm dostępności oraz przyczynę tego stanu rzeczy. Należy również zwrócić uwagę na zapis wymaganiach technicznych dot. deklaracji:
+
+"W przypadku wskazania nadmiernego obciążenia jako powodu braku dostępności cyfrowej, dołącza się zatwierdzoną przez kierownika jednostki informację o przeprowadzonej analizie [...]. Link do wyniku analizy oznaczony jest identyfikatorem „a11y-ocena”."
+
+```html
+Oświadczenie sporządzono dnia <span id="a11y-data-sporzadzenie">DATA</span>.
+Deklarację sporządzono na podstawie samooceny przeprowadzonej przez podmiot
+publiczny.
+```
+
+W przypadku oceny przez podmiot zewnętrzny zapis powinien wyglądać następująco:
+
+```html
+Oświadczenie sporządzono dnia <span id="a11y-data-sporzadzenie">DATA</span>.
+Deklarację sporządzono na podstawie badania przeprowadzonego przez podmiot
+zewnętrzny: <span id="a11y-audytor"> NAZWA PODMIOTU</span> >
+```
+
+```html
+<h2 id="„a11y-kontakt”">Informacje zwrotne i dane kontaktowe</h2>
+
+W przypadku problemów z dostępnością strony internetowej prosimy o kontakt.
+Osobą odpowiedzialną jest <span id="a11y-osoba">IMIĘ I NAZWISKO</span>, adres
+poczty elektronicznej <span id="a11y-email">ADRES E-MAIL</span>, numer telefonu
+<span id="a11y-telefon">NUMER TELEFONU</span>. Tą samą drogą można składać
+wnioski o udostępnienie informacji niedostępnej oraz składać skargi na brak
+zapewnienia dostępności.
+
+<span id="”a11y-procedura”">
+  Każdy ma prawo do wystąpienia z żądaniem zapewnienia dostępności cyfrowej
+  strony internetowej, aplikacji mobilnej lub jakiegoś ich elementu. Można także
+  zażądać udostępnienia informacji za pomocą alternatywnego sposobu dostępu, na
+  przykład przez odczytanie niedostępnego cyfrowo dokumentu, opisanie zawartości
+  filmu bez audiodeskrypcji itp. Żądanie powinno zawierać dane osoby
+  zgłaszającej żądanie, wskazanie, o którą stronę internetową lub aplikację
+  mobilną chodzi oraz sposób kontaktu. Jeżeli osoba żądająca zgłasza potrzebę
+  otrzymania informacji za pomocą alternatywnego sposobu dostępu, powinna także
+  określić dogodny dla niej sposób przedstawienia tej informacji. Podmiot
+  publiczny powinien zrealizować żądanie niezwłocznie, nie później niż w ciągu 7
+  dni od dnia wystąpienia z żądaniem. Jeżeli dotrzymanie tego terminu nie jest
+  możliwe, podmiot publiczny niezwłocznie informuje o tym wnoszącego żądanie,
+  kiedy realizacja żądania będzie możliwa, przy czym termin ten nie może być
+  dłuższy niż 2 miesiące od dnia wystąpienia z żądaniem. Jeżeli zapewnienie
+  dostępności cyfrowej nie jest możliwe, podmiot publiczny może zaproponować
+  alternatywny sposób dostępu do informacji. W przypadku, gdy podmiot publiczny
+  odmówi realizacji żądania zapewnienia dostępności lub alternatywnego sposobu
+  dostępu do informacji, wnoszący żądanie możne złożyć skargę w sprawie
+  zapewniana dostępności cyfrowej strony internetowej, aplikacji mobilnej lub
+  elementu strony internetowej, lub aplikacji mobilnej. Po wyczerpaniu wskazanej
+  wyżej procedury można także złożyć wniosek do
+  <a href="https://www.rpo.gov.pl/">Rzecznika Praw Obywatelskich.</a></span
+>
+```
+
+Podanie strony internetowej Rzecznika Praw Obywatelskich jest obowiązkowa.
+
+```html
+<h2 id="”a11y-architektura”">Dostępność architektoniczna</h2>
+```
+
+Wymagania techniczne nakazują zawarcie informacji o:
+
+- dostępności do wejścia do budynku, obszarów kontroli, korytarzy, schodów, wind;
+- udogodnień dla osób z niepełnosprawnościami (np. pętle indukcyjne, pochylnie itd.);
+- informacje o miejscach parkingowych (w tym dla osób z niepełnosprawnościami);
+- informacje o możliwości wejścia z psem asystującym;
+- inofmracje o możliwości skorzystania z języka migowego.
+
+W przypadku aplikacji mobilnych należy dodać jeszcze sekcje:
+
+```html
+<span id="a11y-aplikacje"> Aplikacje mobilne </span>
+
+NAZWA APLIKACJI dostępna w <a href="ADRES SERWISU">SERWISIE</a>
+```
+
 #### Odstępstwa
 
 Ustawa dopuszcza odstępstwa w przypadku (art. 3):
