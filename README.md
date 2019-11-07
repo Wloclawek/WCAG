@@ -19,4 +19,4 @@ Projekt ma na celu zwiększenie wiedzy sektora informatycznego na temat dostępn
 
 ## Wersja
 
-1.0
+Beta.
