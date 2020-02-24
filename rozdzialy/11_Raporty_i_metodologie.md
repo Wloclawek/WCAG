@@ -7,6 +7,8 @@ W raportach używana jest metodologia wypracowana przez Fundację Widzialni, ale
 Przydatne linki:
 
 - [Metodologia opracowana przez Uniwersytet Śląski i Fundację Widzialni](http://widzialni.org/index.php?p=new&idg=mg,5&id=184);
+- [Lista kontrolna do badania zgodności stron internetowych Ministerstwa Cyfryzacji](https://www.gov.pl/web/dostepnosc-cyfrowa/jak-zbadac-czy-strona-www-jest-dostepna-cyfrowo);
+- [Metoda oceny dostępności cyfrowej strony internetowej zgodnie z zasadami WCAG 2.1](http://widzialni.org/metoda-oceny-dostepnosci-cyfrowej-strony-internetowej-zgodnie-z-zasadami-wcag-21,new,mg,6,371);
 - [Francuska metodologia (polskie tłumaczenie)](https://www.gov.pl/web/dostepnosc-cyfrowa/francuska-metodyka-badania-dostepnosci-rgaa);
 - [Raport dostępności 2019](http://widzialni.org/konferencja-wlaczenie-cyfrowe-access-tech-2019,new,mg,6,361);
 - [Raport dostępności 2018](http://widzialni.org/index.php?p=new&idg=mg,6&id=343);

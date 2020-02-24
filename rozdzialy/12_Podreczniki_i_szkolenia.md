@@ -34,7 +34,8 @@
 - [Wytyczne WCAG 2.0 (angielska wersja)](https://www.w3.org/TR/WCAG20/);
 - Dokumentacja dodatkowa WCAG  (angielska wersja, [How to Meet WCAG](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0), [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/), [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/));
 - [Wytyczne WCAG 2.1](https://www.w3.org/TR/WCAG21/);
-- [Wytyczne WAI-ARIA 1.0](https://www.w3.org/TR/wai-aria-1.0/).
+- [Wytyczne WAI-ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/);
+- [Wytyczne WCAG 2.2 - wersja w trakcie tworzenia](https://w3c.github.io/wcag/guidelines/22/).
 
 ## Organizacje i instytucje zajmujące się dostępnością stron internetowych
 
