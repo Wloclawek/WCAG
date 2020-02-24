@@ -1,0 +1,104 @@
+# WCAG 2.2
+
+## Przyszły standard
+
+Organizacja międzynarodowa W3C zmieniła status WCAG 2.2 na kandydata do rekomendacji (25 stycznia 2023 r.). Pojawiło się 9 nowych kryteriów sukcesu. Kryteria sukcesu dzielą się na trzy poziomy zgodności. A - najniższy, AA - średni, AAA najwyższy.
+
+W3C pracuje nad WCAG 3, a 2.2 jest przejściowym standardem. Przejściowy standard może trwać kilka lat. Po uzyskaniu statusu standardu dopiero będzie mógł być wdrożony do prawa polskiego. Warto jednak zapoznać się z WCAG 2.2, ponieważ jego elementy mają pozytywny wpływ na doświadczenia użytkownika.
+
+## Wygląd fokusa (2.4.11 AA)
+
+Fokus musi spełniać kilka wymagań.
+
+W przypadku fokusa w postaci ciągłego obramowania:
+
+- odpowiedni kontrast fokusa wynoszący 3:1 w stosunku do elemetów sąsiadujących z fokusem. Dotyczy zarówno sąsiada na zewnątrz i wewnątrz fokusa;
+- piksel fokusa powinien mieć kontrast 3:1 w stosunku do tego samego piksela bez fokusa.
+
+W przypadku fokusa w innej postaci niż ciągłe obramowanie (np. przerywany):
+
+- fokus musi mieć wysokość krótszego boku elementu aktywnego i szerokość minimum 4px. Alternatywą jest długość wynosząca 2x długi bok + 2 x krótki bok - 4 piksele na rogach. Jeśli mamy przycisk 90px x 20px to daje nam obwód 2x90 + 2x20 - 4 = 226px. Jeśli fokus jest w postaci lini wzdłuż dłuższego boku (90px) i grubej na trzy piksele to spełnimy normę (3 x 90 = 270px);
+- odpowiedni kontrast fokusa wynoszący 3:1 w stosunku do elemetów sąsiadujących z fokusem. Dotyczy zarówno sąsiada na zewnątrz i wewnątrz fokusa. Wyjątkiem jest sytuacja jak fokus ma minimum 2px grubości;
+- piksel fokusa powinien mieć kontrast 3:1 w stosunku do tego samego piksela bez fokusa.
+
+Nie dotyczy sytuacji, kiedy wygląd fokusa i tło strony nie jest modyfikowane przez stronę. Także modyfikacja użytkownika i brak możliwości edycji fokusa zwalnia z wymogu.
+
+## Fokus niezasłonięty (2.4.12 AA)
+
+Fokus nie powinien być zasłonięty przez inne elementy np. czaty. Często w stopce są linki i możliwość otwarcia okna z czatem. Jeśli użytkownik korzysta z klawiatury, to w sytuacji uruchomienia czatu dobra praktyka to przeniesienie fokusa na czat i zamknięcie go tam do czasu zamknięcia czatu. Podobny problem jest z oknami modalnymi.
+
+## Fokus niezasłonięty (2.4.13 AA)
+
+Analogicznie jak w 2.4.12, ale niedopuszczalne jest też częściowe zasłonięcie fokusa.
+
+## Przeciąganie (2.5.7 AA)
+
+Jeżeli w serwisie mamy funkcjonalność wymagającą przeciągniecie i upuszczenie to musi być alternatywa, która pozwala to zrobić jednym kliknięciem/dotknięciem.
+
+Mapy zazwyczaj mają możliwość sterowania klawiaturą (strzałkami), ale te kryterium sukcesu jest skierowane do obsługi osób, które nie mogą korzystać z fizycznej klawiatury np. mają wirtualną klawiaturę (rzadko na niej są strzałki). Dobrym rozwiązaniem są dodatkowe przyciski np. pozwalające przesunąć mapę w danym kierunku. Z takiego przycisku skorzystają także osoby, które są sparaliżowane i poruszają wskaźnikiem za pomocą gałki ocznej.
+
+Wyjątek: jeśli to jest mechanizm przeglądarki, który nie jest edytowany przez stronę lub jest to niezbędne. Niezbędność tutaj to brak możliwości zachowania informacji i funkcjonalności w przypadku innego mechanizmu.
+
+## Rozmiar docelowy (2.5.8 AA)
+
+Elementy klikalne powinny mieć minim 24px na 24px.
+
+Wyjątki:
+
+- element klikalny ma alternatywę spełniającą normę;
+- element znajduje się w zdaniu lub liście numerowej lub punktowej;
+- element jest ustalony przez przeglądarkę i nie jest modyfikowany przez stronę;
+- wielkość jest niezbędna lub prawnie wymagana. Niezbędność tutaj to brak możliwości zachowania informacji i funkcjonalności w przypadku innego mechanizmu;
+- od innego elementu dzieli go 24px, ale z uwzględnieniem długości przycisku. Przycisk mający 20px musi mieć odstęp od drugiego minimum 4px.
+
+## Stała pomoc (3.2.6 A)
+
+Jeśli w serwisie mamy pomoc lub link do niej to musi się znajdować w tym samym miejscu na pozostałych podstronach:
+
+- dane kontaktowe;
+- mechanizm kontaktowy z człowiekiem;
+- opcje samopomocy np. FAQ-u;
+- zautomatyzowane formy pomocy np. chatbot.
+
+Jest to pomocne dla osób z zaburzeniami poznawczymi.
+
+## Dostępne uwierzytelnianie (3.3.7 AA)
+
+Logowanie powinno unikać testów funkcji poznawczych:
+
+- zapamiętywanie nazwy użytkownika, hasła, zestawu wzorów i obrazów oraz znaków. Imię i nazwisko, adres e-mail oraz telefon są możliwe, ponieważ są uniwersalne dla wszystkich stron i użytkownik nie musi ich zapisywać. Hasła mogą wystąpić, jeśli nie jest blokowany mechanizm kopiuj-wklej lub jest obsługiwane wsparcie dla menadżerów haseł (np. pola są oznaczone w HTML jako hasło);
+- przepisywanie (transkrypcja);
+- stosownia poprawnej pisowni;
+- wykonywanie obliczeń;
+- rozwiązywanie zagadek.
+
+Jeśli używamy testów funkcji poznawczych to musimy zapewnić przynajmniej jedną opcję:
+
+- alternatywę np. odcisk palca, twarz id, token usb, logowanie przez trzecie strony np. Google itd.;
+- mechanizm ułatwiający przejście testu funkcji poznawczych;
+- rozpoznawanie obiektów np. wskaż samochody na zdjęciach (CAPTCHA). Uwaga taki test jest problematyczny na stronach międzynarodowych ze względu na różnice kulturowe;
+- rozpoznawanie swoich treści nietekstowych przekazanych do serwisu np. zdjęć, video, dźwięków.
+
+## Dostępne uwierzytelnianie (3.3.8 AAA)
+
+Analogicznie jak w 3.3.7, ale z wyłączeniem rozpoznawania obiektów i swoich treści nietekstowych.
+
+## Nadmiarowe wprowadzanie (3.3.9 A)
+
+Użytkownik wypełnił dane lub je otrzymał. Jeżeli w tym samym procesie będzie wymagać tych samych danych to strona umożliwi mu ich wybranie lub automatycznie uzupełni.
+
+Przykład? Adres wysyłki i adres zamieszkania mogą być takie same. Dobra praktyka to przycisk potwierdzający, że oba adresy są takie same i nie trzeba ponownie wypełniać danych.
+
+Wyjątki
+
+- deaktualizacja danych;
+- bezpieczeństwo;
+- konieczne ponowne potwierdzenie danych.
+
+## Inne
+
+Usunięto kryterium sukces 4.1.1 Poprawność kodu, ponieważ technologie asystujące nie muszą już bazować bezpośrednio na kodzie HTML.
+
+Kryterium sukcesu 2.4.7 przeniesiono na poziom A z poziomu AA. To oznacza, że widoczność fokusa jest teraz jeszcze ważniejsza.
+
+## [Wróć do spisu treści](../README.md)
