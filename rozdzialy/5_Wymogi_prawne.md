@@ -82,9 +82,7 @@ Deklaracja ponadto zawiera:
 Deklaracja musi zawierać dokładnie te same wartości ID. Jest to niezbędne dla mechanizmów automatycznie gromadzących deklaracje. Opróćz ID obowiązkowe jest też wystąpienie nagłówka poziomu pierwszego (h1) oraz nagłówka poziomu drugiego (h2). Opracowane na podstawie dokumentu pt.: [warunki technicznej dot. deklaracji dostępności](https://mc.bip.gov.pl/objasnienia-prawne/warunki-techniczne-publikacji-oraz-struktura-dokumentu-elektronicznego-deklaracji-dostepnosci.html)
 
 ```html
-<h1 id="a11y-deklaracja">
-  Deklaracja dostępności serwisu NAZWA TWOJEGO SERWISU
-</h1>
+Deklaracja dostępności serwisu NAZWA TWOJEGO SERWISU
 
 <span id="a11y-podmiot"> NAZWA INSTYTUCJI </span> zobowiązuje się zapewnić
 dostępność strony internetowej
