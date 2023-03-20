@@ -52,7 +52,7 @@
 9. [Wskazówki dla UX/grafika](./rozdzialy/10_Wskazowki_dla_UX_grafikow.md)
 10. [Raporty i metodologie](./rozdzialy/11_Raporty_i_metodologie.md)
 11. [Podręczniki i szkolenia oraz przydatne linki](./rozdzialy/12_Podreczniki_i_szkolenia.md)
-12. [WCAG 2.2](./rozdzialy/13_WCAG_2_2)
+12. [WCAG 2.2](./rozdzialy/13_WCAG_2_2.md)
 
 
 ## Ważne informacje
