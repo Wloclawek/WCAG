@@ -4,6 +4,11 @@ Wszystkie zmiany wprowadzone do projektu będą dokumentowane w tym pliku.
 
 Projekt został opublikowany na stronie [WCAG - Github](https://github.com/Wloclawek/WCAG)
 
+## [6] - 2023-03-20
+
+- nowelizacja ustawy (Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych).
+- podział na mniejsze sekcje.
+
 ## [5] - 2023-03-03
 
 - dodanie rozdziału o WCAG 2.2.
