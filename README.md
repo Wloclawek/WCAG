@@ -31,7 +31,7 @@
 
    4.5 [Solidność](./rozdzialy/4_5_Solidnosc.md)
 
-   5. Wymogi Prawne
+5. Wymogi Prawne
 
    5.1 [Wymogi prawne](./rozdzialy/5_1_Wymogi_prawne.md)
 
