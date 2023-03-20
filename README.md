@@ -2,6 +2,7 @@
 
 1. [Aktualizacje](./rozdzialy/1_Aktualizacja.md)
 2. [Zgłoś błąd](./rozdzialy/2_Zglos_blad.md)
+
 3. Podstawy dostępności
 
    3.1 [Wprowadzenie do dostępności](./rozdzialy/3_1_Wprowadzenie_do_dostepnosci.md)
@@ -52,6 +53,7 @@
 10. [Raporty i metodologie](./rozdzialy/11_Raporty_i_metodologie.md)
 11. [Podręczniki i szkolenia oraz przydatne linki](./rozdzialy/12_Podreczniki_i_szkolenia.md)
 12. [WCAG 2.2](./rozdzialy/13_WCAG_2_2)
+
 
 ## Ważne informacje
 
