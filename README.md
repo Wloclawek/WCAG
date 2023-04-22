@@ -45,15 +45,15 @@
 
    5.6 [Inne akty](./rozdzialy/5_6_Inne.md)
 
-5. [Dostępność w aplikacjach mobilnych](./rozdzialy/6_Dostepnosc_w_aplikacjach_mobilnych.md)
-6. [Wskazówki dla programistów](./rozdzialy/7_Wskazowki_dla_programistow.md)
-7. [Wskazówki dla redaktorów](./rozdzialy/8_Wskazowki_dla_redaktorow.md)
-8. [Wskazówki dla testera](./rozdzialy/9_Wskazowki_dla_testerow.md)
-9. [Wskazówki dla UX/grafika](./rozdzialy/10_Wskazowki_dla_UX_grafikow.md)
-10. [Raporty i metodologie](./rozdzialy/11_Raporty_i_metodologie.md)
-11. [Podręczniki i szkolenia oraz przydatne linki](./rozdzialy/12_Podreczniki_i_szkolenia.md)
-12. [WCAG 2.2](./rozdzialy/13_WCAG_2_2.md)
-
+6. [Dostępność w aplikacjach mobilnych](./rozdzialy/6_Dostepnosc_w_aplikacjach_mobilnych.md)
+7. [Wskazówki dla programistów](./rozdzialy/7_Wskazowki_dla_programistow.md)
+8. [Wskazówki dla redaktorów](./rozdzialy/8_Wskazowki_dla_redaktorow.md)
+9. [Wskazówki dla testera](./rozdzialy/9_Wskazowki_dla_testerow.md)
+10. [Wskazówki dla UX/grafika](./rozdzialy/10_Wskazowki_dla_UX_grafikow.md)
+11. [Raporty i metodologie](./rozdzialy/11_Raporty_i_metodologie.md)
+12. [Podręczniki i szkolenia oraz przydatne linki](./rozdzialy/12_Podreczniki_i_szkolenia.md)
+13. [WCAG 2.2](./rozdzialy/13_WCAG_2_2.md)
+14. [Jak automatycznie testować video pod kątem czynników wywołujących epilepsje ekranową?](./rozdzialy/14_epilepsja.md)
 
 ## Ważne informacje
 

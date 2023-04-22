@@ -4,6 +4,10 @@ Wszystkie zmiany wprowadzone do projektu będą dokumentowane w tym pliku.
 
 Projekt został opublikowany na stronie [WCAG - Github](https://github.com/Wloclawek/WCAG)
 
+## [7] - 2023-04-22
+
+- dodanie informacji, jak testować video pod kątem czynników wywołujących epilepsję ekranową.
+
 ## [6] - 2023-03-20
 
 - nowelizacja ustawy (Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych).
