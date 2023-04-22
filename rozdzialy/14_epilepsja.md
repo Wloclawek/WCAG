@@ -91,6 +91,6 @@ Na wykresie będą zaznaczone elementy, które mogą wywołać atak epilepsji ek
 
 Jeśli wykres przecina linie o nazwie **FAIL** (1) to występuje zagrożenie, że materiał może wywołać atak. Obszary potencjalne niebezpieczne będą na pasku video oznaczone jako czerwone (2). Na wykresie mamy do czynnienia z trzema rodzajami:
 
-- luminacja (biała kropkowana linia)
+- luminacja (biała kropkowana linia);
 - czewony błysk (czerwona kropkowana linia);
 - przedłużony błysk (niebieska linia).
