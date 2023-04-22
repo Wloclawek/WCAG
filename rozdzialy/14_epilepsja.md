@@ -66,7 +66,7 @@ Wprowadzamy:
 
 - -i - wskazuje adres pliku do przekonwertowania;
 - input.mp4 - to nazwa i format pliku do przekonwertowania. Wklejamy go do folderu **BIN**;
-- - an - usuwa dźwięk, który zmniejszy nam plik;
+- -an - usuwa dźwięk, który zmniejszy nam plik;
 - -vcodec rawvideo - zapewnia nieskompresowaną wersję;
 - -y - nadpisuje video bez pytania;
 - -r 25 - ustawia 25 klatek na sekundę;
@@ -87,6 +87,7 @@ Otwieramy nasz film (output.avi), klikamy na folder (1). Następnie wybieramy z 
 ![Program PEAT. Strzałkę z jedynką wskazuje na ikonkę z folderem. Starzałka z dwójką wskazuje górne menu z napisem Analysis](../grafika/peat2.png)
 
 Na wykresie będą zaznaczone elementy, które mogą wywołać atak epilepsji ekranowej. W lewym oknie wyświetli się moment filmu, w którym jest problematyczny fragment.
+
 ![Program PEAT. Wykres z białymi i czerwonymi elementami. Na czerwono zaznaczony moment, kiedy film stwarza niebezpieczeństwo](../grafika/peat3.png)
 
 Jeśli wykres przecina linie o nazwie **FAIL** (1) to występuje zagrożenie, że materiał może wywołać atak. Obszary potencjalne niebezpieczne będą na pasku video oznaczone jako czerwone (2). Na wykresie mamy do czynnienia z trzema rodzajami:
